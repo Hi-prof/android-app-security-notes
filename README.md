@@ -2,6 +2,15 @@
 
 本报告针对一款 Android 视频应用的受测版本。当前线上版本的修复状态待确认。
 
+## 样本（仓库根目录）
+
+| 文件 | 大小 | SHA-256 | 签名证书 |
+| --- | --- | --- | --- |
+| `sm_114.original.apk` | 42,741,410 B | `D1FCB49665862C800E2E57739BA19165AA47F0D58D0EC8933534F4A7A93D8B63` | `CN=i7E6Z%2F…, OU=Android, O=Android, C=CN`（发行方原签） |
+| `sm_114.patched.apk` | 43,974,306 B | `34FA9179C6683F5FA975FBE3EB18BD62A462615FF83861AAB16DBBDAE60F8490` | `CN=Android Debug, O=OpenCode, C=CN`（本地 debug keystore） |
+
+两个包同为 `uni.app.UNIGF0182AE`，versionCode 114 / versionName 1.1.4。补丁版仅在 `assets/apps/__UNI__GF0182AE/www/` 下改动 4 个 JS（`app-service.js`、`pages/index/index.js`、`pages/svod/player.js`、`pages/video/play.js`），DEX 与 native 库未变；因签名不同，无法覆盖安装原件，需先卸载。
+
 ## 内容访问控制
 
 受测版本的服务端授权校验存在缺陷。测试中，缺少相应观看权限的会话能够访问部分受保护的视频内容。
