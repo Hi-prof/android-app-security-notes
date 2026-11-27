@@ -1,0 +1,1510 @@
+===== 全局去重（480）=====
+android.googlesource.com                           162
+this.options.style                                 159
+this.media                                         149
+window.plus                                        119
+a.page                                             105
+e.name                                             103
+date.now                                           88
+e.tools                                            81
+t.name                                             77
+t.info                                             73
+navigator.plus                                     60
+t.tools                                            55
+n.info                                             51
+e.gold                                             44
+this.name                                          41
+t.top                                              35
+t.video                                            35
+ff3zvkbv.842641.xyz                                32
+t.style                                            32
+this.info                                          30
+this.top                                           29
+plus.io                                            28
+a.info                                             28
+self.performance.now                               28
+wasm-compiler.cc                                   27
+a.top                                              25
+plus.tools                                         25
+this.page                                          24
+t.media                                            23
+t.page                                             22
+android.media                                      21
+a.one                                              20
+n.plus                                             19
+t.gold                                             19
+android.support                                    18
+this.ani.in                                        18
+ask.dcloud.net.cn                                  16
+performance.now                                    16
+graph-visualizer.cc                                15
+t.constructor.name                                 14
+options.name                                       14
+e.style                                            14
+i.name                                             14
+fastly.jsdelivr.net                                14
+gitlab.com                                         14
+bitbucket.org                                      14
+gitgud.io                                          14
+codeberg.org                                       14
+git.disroot.org                                    14
+gitea.com                                          14
+h9a228t.842610.xyz                                 14
+e.page                                             13
+d.date                                             13
+e.attrs.style                                      12
+at.alicdn.com                                      12
+e.media                                            12
+el.style                                           12
+android.app                                        11
+tv.danmaku.ijk.media                               11
+a.name                                             11
+i.media                                            10
+i.cc                                               10
+r.cc                                               10
+r.live                                             10
+i.video                                            10
+uni.video                                          10
+t.live                                             9
+e.cc                                               9
+r.media                                            9
+n.style                                            9
+serializer-for-background-compilation.cc           9
+r.name                                             8
+e.top                                              8
+n.name                                             8
+refs.content.style                                 8
+u.date                                             8
+i.date                                             8
+android.net                                        7
+s.name                                             7
+e.info                                             7
+this.space                                         7
+o.name                                             7
+r.style                                            7
+i.style                                            7
+openssl.org                                        7
+com.sec.android.app                                6
+uni.app                                            6
+github.com                                         6
+gmail.com                                          6
+a.video                                            6
+t.safearea.top                                     6
+plus.os.name                                       6
+uff1asmapp.cc                                      6
+c.video                                            6
+s.live                                             6
+i.new                                              6
+quilljs.com                                        6
+upload.ffmpeg.org                                  6
+ffmpeg.org                                         6
+lame.sf.net                                        6
+crbug.com                                          6
+function-body-decoder.cc                           6
+wasm-interpreter.cc                                6
+wasm-js.cc                                         6
+verifier.cc                                        6
+regexp.cc                                          6
+runtime-regexp.cc                                  6
+asm-js.cc                                          6
+androidx.core.app                                  5
+io.dcloud.common.util.net                          5
+e.money                                            5
+t.info.gold                                        5
+uff1asmshe.net                                     5
+s.attrs.style                                      5
+e.video                                            5
+t.cc                                               5
+e.live                                             5
+s.cc                                               5
+i.live                                             5
+document.documentelement.style                     5
+this.video                                         5
+androidx.appcompat.app                             4
+ro.miui.ui.version.name                            4
+youtrack.jetbrains.com                             4
+er.dcloud.io                                       4
+er.dcloud.net.cn                                   4
+kotlin.io                                          4
+verify.613804.xyz                                  4
+a.phone.windowheight-a.top                         4
+a.money                                            4
+this.phone.windowheight-this.top                   4
+s.style                                            4
+n.page                                             4
+n.live                                             4
+this.options.to                                    4
+r.gzhead.name                                      4
+l.top                                              4
+apis.map.qq.com                                    4
+window.plus.tools                                  4
+c.date                                             4
+www.google.com                                     3
+t.team                                             3
+a.uploadparam.gold                                 3
+google.com                                         3
+t.awardsconfig.gold                                3
+a.team                                             3
+n.attrs.style                                      3
+e.constructor.name                                 3
+n.info.videoinfo.gold                              3
+t.info.videoinfo.gold                              3
+we.video                                           3
+h.video                                            3
+o.live                                             3
+a.live                                             3
+this.live                                          3
+u.name                                             3
+c.live                                             3
+m.cc                                               3
+d.cc                                               3
+n.cc                                               3
+n.video                                            3
+o.cc                                               3
+ca.video                                           3
+n.media                                            3
+e.constructor.options.props.name                   3
+n.top                                              3
+h.name                                             3
+n.is                                               3
+n.work                                             3
+m.a.top                                            3
+e.data.to                                          3
+m.info                                             3
+o.default.attributor.style                         3
+this.root.style                                    3
+r.root.style                                       3
+www.openssl.org                                    3
+unix.group                                         3
+s.run                                              3
+js-context-specialization.cc                       3
+f64.store                                          3
+handles.cc                                         3
+interpreter.cc                                     3
+module.cc                                          3
+wasm-objects.cc                                    3
+parser.cc                                          3
+js-native-context-specialization.cc                3
+i64.store                                          3
+node-properties.cc                                 3
+ast-value-factory.cc                               3
+js-call-reducer.cc                                 3
+js-typed-lowering.cc                               3
+typer.cc                                           3
+map.cc                                             3
+keys.cc                                            3
+js-inlining-heuristic.cc                           3
+i32.store                                          3
+register-allocator-verifier.cc                     3
+parse-info.cc                                      3
+f32.store                                          3
+js-heap-broker.cc                                  3
+graph-builder-interface.cc                         3
+iostools.new                                       3
+android.intent.extra.stream                        2
+android.intent.extra.shortcut.name                 2
+android.net.network                                2
+handroid.support                                   2
+builder.name                                       2
+oracle.sql.date                                    2
+com.android.org                                    2
+com.android.providers.media                        2
+6com.google.android.gms.org                        2
+java.vm.name                                       2
+libcore.io                                         2
+ro.vivo.os.name                                    2
+m3w.cn                                             2
+java.io                                            2
+dispatchers.io                                     2
+clock.system.now                                   2
+omx.marvell.video                                  2
+omx.brcm.video                                     2
+console.info                                       2
+www.smapp.cc                                       2
+www.smshe.net                                      2
+tawk.to                                            2
+ms.cqpig.cn                                        2
+vip4.ddyunbo.com                                   2
+v3.cqpig.cn                                        2
+smapp.cc                                           2
+smshe.net                                          2
+t.userinfo.money                                   2
+a.gold                                             2
+s.info                                             2
+e.safearea.top                                     2
+mp.page                                            2
+this.top.top                                       2
+t.buyinfo.gold                                     2
+a.userinfo.money                                   2
+r.data.video                                       2
+a.info.name                                        2
+t.attrs.style                                      2
+r.videoinfo.gold                                   2
+i.user.gold                                        2
+this.one                                           2
+js.cdn.aliyun.dcloud.net.cn                        2
+a.videoinfo.gold                                   2
+aomedia.org                                        2
+s.media                                            2
+h.cc                                               2
+a.cc                                               2
+o.video                                            2
+d.video                                            2
+i.details.live                                     2
+o.media                                            2
+a.new                                              2
+m.live                                             2
+service.dcloud.net.cn                              2
+plus.video                                         2
+gn.now                                             2
+t.work                                             2
+n.head.name                                        2
+s.top                                              2
+refs.container.style                               2
+e.host                                             2
+t.dataset.name                                     2
+b.top                                              2
+u.default.attributor.style                         2
+this.root.style.top                                2
+this.quill.root.parentnode.style                   2
+e.io                                               2
+this.to                                            2
+this.cc                                            2
+r.download                                         2
+io.dcloud.app                                      2
+io.dcloud.common.app                               2
+io.dcloud.net                                      2
+location.host                                      2
+t0.fr                                              1
+b.contentwindow.plus                               1
+p.os.name                                          1
+emojicompat.emojicompatinitializer.run             1
+log.info                                           1
+android.intent.extra.cc                            1
+android.intent.extra.email                         1
+6android.support                                   1
+1android.support                                   1
+wandroid.support                                   1
+iandroid.support                                   1
+nandroid.support                                   1
+kandroid.support                                   1
+gandroid.support                                   1
+randroid.support                                   1
+fandroid.support                                   1
+android.support.v4.app                             1
+android.support.v7.app                             1
+android.tv                                         1
+handroidx.appcompat.app                            1
+6androidx.appcompat.app                            1
+4androidx.core.app                                 1
+1androidx.core.app                                 1
+3androidx.core.app                                 1
+appassets.androidplatform.net                      1
+child.style                                        1
+clazz.name                                         1
+com.bumptech.glide.load.model.stream               1
+com.huawei.android.app                             1
+component.style                                    1
+io.dcloud.appstream.rules.util.tools               1
+java.runtime.name                                  1
+libcore.icu.icu                                    1
+org.javamoney.moneta.money                         1
+parent.style                                       1
+ta.in                                              1
+g.jp                                               1
+y.it                                               1
+adsim-info.io                                      1
+omx.action.video                                   1
+omx.lg.decoder.video                               1
+omx.renesas.video                                  1
+omx.rtk.video                                      1
+omx.ti.ducati1.video                               1
+omx.allwinner.video                                1
+omx.cosmo.video                                    1
+omx.ffmpeg.video                                   1
+omx.hantro.81x0.video                              1
+omx.hantro.g1.video                                1
+omx.hisi.video                                     1
+omx.ittiam.video                                   1
+omx.k3.video                                       1
+omx.qcom.video                                     1
+java.sql.date                                      1
+kotlinx.coroutines.io                              1
+kotlinx.coroutines.scheduler.default.name          1
+kotlinx.coroutines.stream                          1
+uts.sdk.modules.dcloudunimedia.media               1
+os.name                                            1
+ro.build.nubia.rom.name                            1
+www.smshe.cc                                       1
+www.smshe.xyz                                      1
+smshe.cc                                           1
+smshe.xyz                                          1
+refs.info                                          1
+t.ani.in                                           1
+t.info.money                                       1
+e.vip                                              1
+t.data.today                                       1
+t.team.today                                       1
+a.buyinfo.gold                                     1
+t.info.date                                        1
+e.attrs.name                                       1
+i.page                                             1
+t.windowheight-e.top                               1
+a.userinfo.money-a.money                           1
+t.info.today                                       1
+this.awardsconfig.gold                             1
+t.host                                             1
+e.data.info                                        1
+e.data.team                                        1
+e.style.top                                        1
+t.phone.safearea.top                               1
+a.media                                            1
+uff1asmshe.cc                                      1
+uff1asmshe.xyz                                     1
+i.attrs.style                                      1
+i.user.gold-t.gold                                 1
+t.user.gold                                        1
+this.info.gold                                     1
+n.info.videoinfo.info                              1
+document.body.style                                1
+u.style                                            1
+t.info.videoinfo.info                              1
+t.details.live                                     1
+l.info                                             1
+navigator.online                                   1
+e.range.video                                      1
+e.cc-r.cc                                          1
+v.cc                                               1
+l.video                                            1
+p.cc                                               1
+u.frag.cc                                          1
+l.cc                                               1
+a.frag.cc                                          1
+this.switchingtrack.name                           1
+r.elementarystreams.video                          1
+e.details.live                                     1
+this.queues.video                                  1
+this.tracks.video                                  1
+r.tracks.video                                     1
+r.appenderrors.video                               1
+r.bottom-r.top                                     1
+t.tracks.video                                     1
+i.host                                             1
+l.host                                             1
+this.snapoptions.in                                1
+o.snapoptions.in                                   1
+d.media                                            1
+c.media                                            1
+this.hls.media                                     1
+v.media                                            1
+h.media                                            1
+f.cc                                               1
+n.new                                              1
+e.frag.cc                                          1
+this.buffered.video                                1
+l.live                                             1
+d.live                                             1
+c.cc                                               1
+r.details.live                                     1
+s.position.top                                     1
+u.top                                              1
+el.parentnode.style                                1
+t.props.name                                       1
+t.propsdata.name                                   1
+n.data.attrs.name                                  1
+r-date.now                                         1
+r.top                                              1
+o.top                                              1
+t.options.name                                     1
+t.run                                              1
+this.run                                           1
+ii.prototype.run                                   1
+n.options.name                                     1
+t.ctor.options.name                                1
+e.data.style                                       1
+e.top-n.top                                        1
+t.elm.style                                        1
+this.work                                          1
+e.clienty-n.top                                    1
+i.top-n.top                                        1
+r.support                                          1
+t.date                                             1
+n.bottom-n.top                                     1
+e.bottom-e.top                                     1
+f.top                                              1
+refs.wrapper.style                                 1
+this.style                                         1
+c.style                                            1
+zloirock.ru                                        1
+object.is                                          1
+maps.google.com                                    1
+e.date                                             1
+salesforce.com                                     1
+n.constructor.name                                 1
+y.default.attributor.store                         1
+e.rest                                             1
+n.bottom-r.top                                     1
+n.top-r.top                                        1
+this.select.style                                  1
+r.prototype.rest                                   1
+c.top                                              1
+c.top-n.top                                        1
+o.root.style                                       1
+o.bottom-o.top                                     1
+t.bottom-t.top                                     1
+youtube.com                                        1
+player.vimeo.com                                   1
+p.default.attributor.style                         1
+t.handlers.link                                    1
+n.format.link                                      1
+month.name                                         1
+is.name                                            1
+pos.to                                             1
+i.display.style                                    1
+i.dragbox.style                                    1
+n.overlay.style                                    1
+e.top-o.top                                        1
+n.quill.root.style                                 1
+g.io                                               1
+f.co                                               1
+sh.fr                                              1
+f.fr                                               1
+window.webkit.messagehandlers.plus                 1
+this.plus                                          1
+e.net                                              1
+c.styles.name                                      1
+e.stream                                           1
+t.data.to                                          1
+t.prototype.in                                     1
+s.styles.name                                      1
+t.io                                               1
+t.stream                                           1
+
+##### classes.dex (59)
+   navigator.plus                                 34
+   android.support                                17
+   window.plus                                    16
+   android.app                                    8
+   androidx.core.app                              5
+   ask.dcloud.net.cn                              4
+   androidx.appcompat.app                         4
+   ro.miui.ui.version.name                        3
+   com.sec.android.app                            3
+   android.media                                  2
+   android.net                                    2
+   handroid.support                               2
+   oracle.sql.date                                2
+   t0.fr                                          1
+   b.contentwindow.plus                           1
+   p.os.name                                      1
+   emojicompat.emojicompatinitializer.run         1
+   log.info                                       1
+   android.intent.extra.cc                        1
+   android.intent.extra.email                     1
+   android.intent.extra.stream                    1
+   android.intent.extra.shortcut.name             1
+   android.net.network                            1
+   6android.support                               1
+   1android.support                               1
+   wandroid.support                               1
+   iandroid.support                               1
+   nandroid.support                               1
+   kandroid.support                               1
+   gandroid.support                               1
+   randroid.support                               1
+   fandroid.support                               1
+   android.support.v4.app                         1
+   android.support.v7.app                         1
+   android.tv                                     1
+   handroidx.appcompat.app                        1
+   6androidx.appcompat.app                        1
+   4androidx.core.app                             1
+   1androidx.core.app                             1
+   3androidx.core.app                             1
+   appassets.androidplatform.net                  1
+   builder.name                                   1
+   child.style                                    1
+   clazz.name                                     1
+   com.android.org                                1
+   com.android.providers.media                    1
+   com.bumptech.glide.load.model.stream           1
+   6com.google.android.gms.org                    1
+   com.huawei.android.app                         1
+   component.style                                1
+   io.dcloud.appstream.rules.util.tools           1
+   io.dcloud.common.util.net                      1
+   java.runtime.name                              1
+   java.vm.name                                   1
+   libcore.icu.icu                                1
+   libcore.io                                     1
+   org.javamoney.moneta.money                     1
+   parent.style                                   1
+   ro.vivo.os.name                                1
+
+##### classes2.dex (59)
+   navigator.plus                                 24
+   n.plus                                         18
+   window.plus                                    15
+   ask.dcloud.net.cn                              12
+   youtrack.jetbrains.com                         4
+   er.dcloud.io                                   4
+   er.dcloud.net.cn                               4
+   kotlin.io                                      4
+   android.media                                  4
+   android.app                                    3
+   android.net                                    3
+   com.sec.android.app                            3
+   m3w.cn                                         2
+   java.io                                        2
+   dispatchers.io                                 2
+   clock.system.now                               2
+   omx.marvell.video                              2
+   omx.brcm.video                                 2
+   console.info                                   2
+   io.dcloud.common.util.net                      2
+   tv.danmaku.ijk.media                           2
+   ta.in                                          1
+   g.jp                                           1
+   y.it                                           1
+   adsim-info.io                                  1
+   omx.action.video                               1
+   omx.lg.decoder.video                           1
+   omx.renesas.video                              1
+   omx.rtk.video                                  1
+   omx.ti.ducati1.video                           1
+   omx.allwinner.video                            1
+   omx.cosmo.video                                1
+   omx.ffmpeg.video                               1
+   omx.hantro.81x0.video                          1
+   omx.hantro.g1.video                            1
+   omx.hisi.video                                 1
+   omx.ittiam.video                               1
+   omx.k3.video                                   1
+   omx.qcom.video                                 1
+   android.intent.extra.stream                    1
+   android.intent.extra.shortcut.name             1
+   android.net.network                            1
+   android.support                                1
+   builder.name                                   1
+   com.android.org                                1
+   com.android.providers.media                    1
+   6com.google.android.gms.org                    1
+   java.sql.date                                  1
+   java.vm.name                                   1
+   kotlinx.coroutines.io                          1
+   kotlinx.coroutines.scheduler.default.name      1
+   kotlinx.coroutines.stream                      1
+   libcore.io                                     1
+   uts.sdk.modules.dcloudunimedia.media           1
+   os.name                                        1
+   ro.build.nubia.rom.name                        1
+   ro.miui.ui.version.name                        1
+   ro.vivo.os.name                                1
+   uni.app                                        1
+
+##### assets/apps/__UNI__GF0182AE/www/app-service.js (96)
+   a.page                                         105
+   t.name                                         42
+   e.gold                                         33
+   t.info                                         32
+   t.top                                          29
+   e.name                                         28
+   a.info                                         28
+   this.top                                       27
+   a.top                                          24
+   this.page                                      23
+   t.page                                         22
+   a.one                                          20
+   t.gold                                         16
+   plus.io                                        12
+   e.attrs.style                                  12
+   e.style                                        11
+   date.now                                       10
+   e.page                                         10
+   t.video                                        8
+   s.name                                         6
+   t.safearea.top                                 6
+   e.money                                        5
+   a.video                                        5
+   s.attrs.style                                  5
+   verify.613804.xyz                              4
+   ff3zvkbv.842641.xyz                            4
+   a.phone.windowheight-a.top                     4
+   e.info                                         4
+   this.space                                     4
+   a.money                                        4
+   this.phone.windowheight-this.top               4
+   s.style                                        4
+   gmail.com                                      3
+   r.name                                         3
+   t.team                                         3
+   t.info.gold                                    3
+   a.uploadparam.gold                             3
+   this.ani.in                                    3
+   t.awardsconfig.gold                            3
+   a.team                                         3
+   i.name                                         3
+   n.attrs.style                                  3
+   www.smapp.cc                                   2
+   www.smshe.net                                  2
+   tawk.to                                        2
+   ms.cqpig.cn                                    2
+   vip4.ddyunbo.com                               2
+   v3.cqpig.cn                                    2
+   github.com                                     2
+   a.name                                         2
+   smapp.cc                                       2
+   smshe.net                                      2
+   t.constructor.name                             2
+   options.name                                   2
+   t.userinfo.money                               2
+   a.gold                                         2
+   this.name                                      2
+   s.info                                         2
+   e.safearea.top                                 2
+   mp.page                                        2
+   this.top.top                                   2
+   t.buyinfo.gold                                 2
+   a.userinfo.money                               2
+   r.data.video                                   2
+   a.info.name                                    2
+   plus.os.name                                   2
+   uff1asmapp.cc                                  2
+   uff1asmshe.net                                 2
+   www.smshe.cc                                   1
+   www.smshe.xyz                                  1
+   www.google.com                                 1
+   smshe.cc                                       1
+   smshe.xyz                                      1
+   refs.info                                      1
+   t.ani.in                                       1
+   t.info.money                                   1
+   e.vip                                          1
+   t.data.today                                   1
+   t.team.today                                   1
+   a.buyinfo.gold                                 1
+   t.info.date                                    1
+   e.attrs.name                                   1
+   i.page                                         1
+   t.windowheight-e.top                           1
+   a.userinfo.money-a.money                       1
+   t.info.today                                   1
+   google.com                                     1
+   this.awardsconfig.gold                         1
+   t.host                                         1
+   e.data.info                                    1
+   e.data.team                                    1
+   e.style.top                                    1
+   t.phone.safearea.top                           1
+   i.media                                        1
+   o.name                                         1
+   t.attrs.style                                  1
+
+##### assets/apps/__UNI__GF0182AE/www/app-view.js (14)
+   at.alicdn.com                                  12
+   uff1asmapp.cc                                  4
+   n.page                                         4
+   uff1asmshe.net                                 3
+   gmail.com                                      3
+   a.media                                        1
+   t.media                                        1
+   e.media                                        1
+   e.top                                          1
+   uff1asmshe.cc                                  1
+   uff1asmshe.xyz                                 1
+   i.attrs.style                                  1
+   t.name                                         1
+   t.attrs.style                                  1
+
+##### assets/apps/__UNI__GF0182AE/www/pages/index/index.js (18)
+   this.options.style                             26
+   date.now                                       9
+   e.gold                                         5
+   ff3zvkbv.842641.xyz                            4
+   this.ani.in                                    3
+   fastly.jsdelivr.net                            2
+   gitlab.com                                     2
+   bitbucket.org                                  2
+   gitgud.io                                      2
+   codeberg.org                                   2
+   git.disroot.org                                2
+   gitea.com                                      2
+   h9a228t.842610.xyz                             2
+   e.name                                         2
+   r.videoinfo.gold                               2
+   t.constructor.name                             1
+   plus.io                                        1
+   t.gold                                         1
+
+##### assets/apps/__UNI__GF0182AE/www/pages/live/player.js (14)
+   date.now                                       6
+   this.options.style                             5
+   ff3zvkbv.842641.xyz                            4
+   fastly.jsdelivr.net                            2
+   gitlab.com                                     2
+   bitbucket.org                                  2
+   gitgud.io                                      2
+   codeberg.org                                   2
+   git.disroot.org                                2
+   gitea.com                                      2
+   h9a228t.842610.xyz                             2
+   e.constructor.name                             1
+   plus.io                                        1
+   t.name                                         1
+
+##### assets/apps/__UNI__GF0182AE/www/pages/subnvue/live_chat_list.js (22)
+   this.options.style                             28
+   date.now                                       6
+   ff3zvkbv.842641.xyz                            4
+   e.name                                         4
+   this.ani.in                                    3
+   fastly.jsdelivr.net                            2
+   gitlab.com                                     2
+   bitbucket.org                                  2
+   gitgud.io                                      2
+   codeberg.org                                   2
+   git.disroot.org                                2
+   gitea.com                                      2
+   h9a228t.842610.xyz                             2
+   i.user.gold                                    2
+   t.gold                                         2
+   t.constructor.name                             1
+   plus.io                                        1
+   this.top                                       1
+   t.name                                         1
+   i.user.gold-t.gold                             1
+   t.user.gold                                    1
+   e.gold                                         1
+
+##### assets/apps/__UNI__GF0182AE/www/pages/subnvue/live_loading.js (1)
+   this.options.style                             5
+
+##### assets/apps/__UNI__GF0182AE/www/pages/subnvue/live_setting.js (14)
+   date.now                                       6
+   this.options.style                             5
+   ff3zvkbv.842641.xyz                            4
+   fastly.jsdelivr.net                            2
+   gitlab.com                                     2
+   bitbucket.org                                  2
+   gitgud.io                                      2
+   codeberg.org                                   2
+   git.disroot.org                                2
+   gitea.com                                      2
+   h9a228t.842610.xyz                             2
+   e.constructor.name                             1
+   plus.io                                        1
+   t.name                                         1
+
+##### assets/apps/__UNI__GF0182AE/www/pages/subnvue/live_top_head.js (16)
+   this.options.style                             15
+   date.now                                       6
+   ff3zvkbv.842641.xyz                            4
+   this.ani.in                                    3
+   fastly.jsdelivr.net                            2
+   gitlab.com                                     2
+   bitbucket.org                                  2
+   gitgud.io                                      2
+   codeberg.org                                   2
+   git.disroot.org                                2
+   gitea.com                                      2
+   h9a228t.842610.xyz                             2
+   e.gold                                         2
+   e.constructor.name                             1
+   plus.io                                        1
+   t.name                                         1
+
+##### assets/apps/__UNI__GF0182AE/www/pages/svod/player.js (21)
+   t.info                                         18
+   this.options.style                             15
+   this.info                                      9
+   date.now                                       7
+   ff3zvkbv.842641.xyz                            4
+   this.ani.in                                    3
+   fastly.jsdelivr.net                            2
+   gitlab.com                                     2
+   bitbucket.org                                  2
+   gitgud.io                                      2
+   codeberg.org                                   2
+   git.disroot.org                                2
+   gitea.com                                      2
+   h9a228t.842610.xyz                             2
+   e.name                                         2
+   this.one                                       2
+   e.info                                         2
+   t.info.gold                                    2
+   t.constructor.name                             1
+   plus.io                                        1
+   this.info.gold                                 1
+
+##### assets/apps/__UNI__GF0182AE/www/pages/video/play.js (31)
+   n.info                                         51
+   this.options.style                             35
+   t.info                                         21
+   this.info                                      17
+   date.now                                       11
+   e.name                                         8
+   ff3zvkbv.842641.xyz                            4
+   this.ani.in                                    3
+   plus.io                                        3
+   n.info.videoinfo.gold                          3
+   t.info.videoinfo.gold                          3
+   e.gold                                         3
+   fastly.jsdelivr.net                            2
+   gitlab.com                                     2
+   bitbucket.org                                  2
+   gitgud.io                                      2
+   codeberg.org                                   2
+   git.disroot.org                                2
+   gitea.com                                      2
+   h9a228t.842610.xyz                             2
+   js.cdn.aliyun.dcloud.net.cn                    2
+   t.constructor.name                             2
+   android.net                                    2
+   t.name                                         2
+   n.name                                         2
+   a.videoinfo.gold                               2
+   n.info.videoinfo.info                          1
+   document.body.style                            1
+   u.style                                        1
+   t.info.videoinfo.info                          1
+   a.name                                         1
+
+##### assets/apps/__UNI__GF0182AE/www/static/js/hls.min.js (96)
+   this.media                                     149
+   self.performance.now                           28
+   t.media                                        22
+   performance.now                                14
+   e.name                                         12
+   e.media                                        11
+   i.cc                                           10
+   t.video                                        10
+   r.cc                                           10
+   r.live                                         10
+   t.live                                         9
+   e.cc                                           9
+   i.media                                        9
+   r.media                                        9
+   c.video                                        6
+   s.live                                         6
+   t.cc                                           5
+   e.live                                         5
+   s.cc                                           5
+   i.live                                         5
+   this.info                                      4
+   t.name                                         4
+   date.now                                       4
+   o.name                                         4
+   n.live                                         4
+   i.name                                         4
+   we.video                                       3
+   h.video                                        3
+   o.live                                         3
+   a.live                                         3
+   a.name                                         3
+   this.live                                      3
+   c.live                                         3
+   m.cc                                           3
+   d.cc                                           3
+   n.cc                                           3
+   n.video                                        3
+   i.video                                        3
+   o.cc                                           3
+   ca.video                                       3
+   n.media                                        3
+   i.new                                          3
+   aomedia.org                                    2
+   t.info                                         2
+   this.name                                      2
+   s.media                                        2
+   h.cc                                           2
+   a.cc                                           2
+   o.video                                        2
+   d.video                                        2
+   r.name                                         2
+   i.details.live                                 2
+   o.media                                        2
+   a.new                                          2
+   m.live                                         2
+   e.video                                        1
+   t.details.live                                 1
+   l.info                                         1
+   navigator.online                               1
+   e.range.video                                  1
+   u.name                                         1
+   e.cc-r.cc                                      1
+   v.cc                                           1
+   e.info                                         1
+   l.video                                        1
+   a.video                                        1
+   p.cc                                           1
+   u.frag.cc                                      1
+   l.cc                                           1
+   a.frag.cc                                      1
+   this.switchingtrack.name                       1
+   r.elementarystreams.video                      1
+   e.details.live                                 1
+   this.queues.video                              1
+   this.tracks.video                              1
+   r.tracks.video                                 1
+   r.appenderrors.video                           1
+   r.bottom-r.top                                 1
+   t.tracks.video                                 1
+   i.host                                         1
+   l.host                                         1
+   this.snapoptions.in                            1
+   o.snapoptions.in                               1
+   d.media                                        1
+   c.media                                        1
+   this.hls.media                                 1
+   v.media                                        1
+   h.media                                        1
+   f.cc                                           1
+   n.new                                          1
+   e.frag.cc                                      1
+   this.buffered.video                            1
+   l.live                                         1
+   d.live                                         1
+   c.cc                                           1
+   r.details.live                                 1
+
+##### assets/apps/__UNI__GF0182AE/www/view.umd.min.js (81)
+   t.style                                        27
+   date.now                                       21
+   this.name                                      16
+   t.name                                         14
+   options.name                                   12
+   el.style                                       12
+   uni.video                                      10
+   n.style                                        8
+   refs.content.style                             8
+   u.date                                         8
+   t.constructor.name                             7
+   plus.io                                        7
+   i.style                                        7
+   t.video                                        6
+   uni.app                                        5
+   this.video                                     5
+   plus.os.name                                   4
+   this.options.to                                4
+   document.documentelement.style                 4
+   e.top                                          4
+   r.gzhead.name                                  4
+   e.constructor.options.props.name               3
+   h.name                                         3
+   n.is                                           3
+   e.name                                         3
+   r.name                                         3
+   n.work                                         3
+   e.page                                         3
+   t.top                                          3
+   m.a.top                                        3
+   this.space                                     3
+   service.dcloud.net.cn                          2
+   window.plus                                    2
+   u.name                                         2
+   plus.video                                     2
+   r.style                                        2
+   n.top                                          2
+   gn.now                                         2
+   n.name                                         2
+   i.name                                         2
+   t.work                                         2
+   n.head.name                                    2
+   s.top                                          2
+   refs.container.style                           2
+   performance.now                                2
+   e.host                                         2
+   l.top                                          2
+   t.dataset.name                                 2
+   s.position.top                                 1
+   u.top                                          1
+   el.parentnode.style                            1
+   t.props.name                                   1
+   t.propsdata.name                               1
+   n.data.attrs.name                              1
+   s.name                                         1
+   n.plus                                         1
+   r-date.now                                     1
+   r.top                                          1
+   o.top                                          1
+   a.top                                          1
+   t.options.name                                 1
+   t.run                                          1
+   this.run                                       1
+   ii.prototype.run                               1
+   n.options.name                                 1
+   t.ctor.options.name                            1
+   e.data.style                                   1
+   e.top-n.top                                    1
+   t.elm.style                                    1
+   this.work                                      1
+   e.clienty-n.top                                1
+   i.top-n.top                                    1
+   r.support                                      1
+   t.date                                         1
+   this.page                                      1
+   n.bottom-n.top                                 1
+   e.bottom-e.top                                 1
+   f.top                                          1
+   refs.wrapper.style                             1
+   this.style                                     1
+   c.style                                        1
+
+##### assets/apps/__UNI__GF0182AE/www/__uniappchooselocation.js (6)
+   this.options.style                             5
+   apis.map.qq.com                                2
+   a.name                                         2
+   t.name                                         2
+   e.data.to                                      1
+   e.name                                         1
+
+##### assets/apps/__UNI__GF0182AE/www/__uniappes6.js (4)
+   zloirock.ru                                    1
+   r.style                                        1
+   i.name                                         1
+   object.is                                      1
+
+##### assets/apps/__UNI__GF0182AE/www/__uniappopenlocation.js (9)
+   this.options.style                             5
+   this.name                                      3
+   apis.map.qq.com                                2
+   www.google.com                                 2
+   google.com                                     2
+   e.data.to                                      1
+   t.name                                         1
+   maps.google.com                                1
+   e.name                                         1
+
+##### assets/apps/__UNI__GF0182AE/www/__uniapppicker.js (3)
+   d.date                                         13
+   this.options.style                             10
+   e.date                                         1
+
+##### assets/apps/__UNI__GF0182AE/www/__uniappquill.js (34)
+   quilljs.com                                    6
+   e.name                                         4
+   t.style                                        4
+   r.style                                        4
+   m.info                                         3
+   o.default.attributor.style                     3
+   this.root.style                                3
+   r.root.style                                   3
+   b.top                                          2
+   u.default.attributor.style                     2
+   this.root.style.top                            2
+   salesforce.com                                 1
+   n.name                                         1
+   n.constructor.name                             1
+   y.default.attributor.store                     1
+   e.rest                                         1
+   n.bottom-r.top                                 1
+   n.top-r.top                                    1
+   t.name                                         1
+   this.select.style                              1
+   r.prototype.rest                               1
+   n.top                                          1
+   c.top                                          1
+   c.top-n.top                                    1
+   n.style                                        1
+   o.root.style                                   1
+   o.bottom-o.top                                 1
+   t.bottom-t.top                                 1
+   youtube.com                                    1
+   player.vimeo.com                               1
+   p.default.attributor.style                     1
+   date.now                                       1
+   t.handlers.link                                1
+   n.format.link                                  1
+
+##### assets/apps/__UNI__GF0182AE/www/__uniappquillhighlight.js (7)
+   github.com                                     4
+   i.name                                         2
+   this.top                                       1
+   this.name                                      1
+   month.name                                     1
+   is.name                                        1
+   pos.to                                         1
+
+##### assets/apps/__UNI__GF0182AE/www/__uniappquillimageresize.js (9)
+   e.style                                        2
+   this.quill.root.parentnode.style               2
+   i.display.style                                1
+   i.dragbox.style                                1
+   n.overlay.style                                1
+   e.top-o.top                                    1
+   n.quill.root.style                             1
+   document.documentelement.style                 1
+   date.now                                       1
+
+##### assets/apps/__UNI__GF0182AE/www/__uniappscan.js (2)
+   this.options.style                             5
+   e.data.to                                      1
+
+##### lib/arm64-v8a/libbreakpad-core.so (1)
+   android.googlesource.com                       4
+
+##### lib/arm64-v8a/libdcblur.so (1)
+   android.googlesource.com                       4
+
+##### lib/arm64-v8a/libgifimage.so (1)
+   android.googlesource.com                       2
+
+##### lib/arm64-v8a/libijkffmpeg.so (6)
+   openssl.org                                    5
+   android.googlesource.com                       4
+   www.openssl.org                                1
+   upload.ffmpeg.org                              1
+   ffmpeg.org                                     1
+   unix.group                                     1
+
+##### lib/arm64-v8a/libijkplayer.so (3)
+   android.googlesource.com                       4
+   upload.ffmpeg.org                              1
+   ffmpeg.org                                     1
+
+##### lib/arm64-v8a/libijksdl.so (3)
+   android.media                                  5
+   android.googlesource.com                       4
+   tv.danmaku.ijk.media                           3
+
+##### lib/arm64-v8a/libimagepipeline.so (1)
+   android.googlesource.com                       2
+
+##### lib/arm64-v8a/liblamemp3.so (2)
+   android.googlesource.com                       4
+   lame.sf.net                                    2
+
+##### lib/arm64-v8a/libnative-filters.so (1)
+   android.googlesource.com                       2
+
+##### lib/arm64-v8a/libnative-imagetranscoder.so (1)
+   android.googlesource.com                       2
+
+##### lib/arm64-v8a/libpl_droidsonroids_gif.so (1)
+   android.googlesource.com                       2
+
+##### lib/arm64-v8a/libso.so (1)
+   android.googlesource.com                       2
+
+##### lib/arm64-v8a/libstatic-webp.so (1)
+   android.googlesource.com                       2
+
+##### lib/arm64-v8a/libuts-runtime.so (1)
+   android.googlesource.com                       4
+
+##### lib/arm64-v8a/libweexcore.so (2)
+   android.googlesource.com                       4
+   s.run                                          1
+
+##### lib/arm64-v8a/libweexjsb.so (1)
+   android.googlesource.com                       2
+
+##### lib/arm64-v8a/libweexjss.so (35)
+   wasm-compiler.cc                               9
+   graph-visualizer.cc                            5
+   android.googlesource.com                       4
+   serializer-for-background-compilation.cc       3
+   crbug.com                                      2
+   function-body-decoder.cc                       2
+   wasm-interpreter.cc                            2
+   wasm-js.cc                                     2
+   verifier.cc                                    2
+   regexp.cc                                      2
+   runtime-regexp.cc                              2
+   asm-js.cc                                      2
+   js-context-specialization.cc                   1
+   f64.store                                      1
+   handles.cc                                     1
+   interpreter.cc                                 1
+   module.cc                                      1
+   wasm-objects.cc                                1
+   parser.cc                                      1
+   js-native-context-specialization.cc            1
+   i64.store                                      1
+   node-properties.cc                             1
+   ast-value-factory.cc                           1
+   js-call-reducer.cc                             1
+   js-typed-lowering.cc                           1
+   typer.cc                                       1
+   map.cc                                         1
+   keys.cc                                        1
+   js-inlining-heuristic.cc                       1
+   i32.store                                      1
+   register-allocator-verifier.cc                 1
+   parse-info.cc                                  1
+   f32.store                                      1
+   js-heap-broker.cc                              1
+   graph-builder-interface.cc                     1
+
+##### lib/arm64-v8a/libweexjst.so (1)
+   android.googlesource.com                       2
+
+##### lib/armeabi-v7a/libbreakpad-core.so (1)
+   android.googlesource.com                       4
+
+##### lib/armeabi-v7a/libdcblur.so (1)
+   android.googlesource.com                       4
+
+##### lib/armeabi-v7a/libgifimage.so (1)
+   android.googlesource.com                       2
+
+##### lib/armeabi-v7a/libijkffmpeg.so (7)
+   android.googlesource.com                       4
+   www.openssl.org                                1
+   openssl.org                                    1
+   upload.ffmpeg.org                              1
+   ffmpeg.org                                     1
+   unix.group                                     1
+   g.io                                           1
+
+##### lib/armeabi-v7a/libijkplayer.so (3)
+   android.googlesource.com                       4
+   upload.ffmpeg.org                              1
+   ffmpeg.org                                     1
+
+##### lib/armeabi-v7a/libijksdl.so (4)
+   android.media                                  5
+   android.googlesource.com                       4
+   tv.danmaku.ijk.media                           3
+   f.co                                           1
+
+##### lib/armeabi-v7a/libimagepipeline.so (1)
+   android.googlesource.com                       2
+
+##### lib/armeabi-v7a/liblamemp3.so (2)
+   android.googlesource.com                       4
+   lame.sf.net                                    2
+
+##### lib/armeabi-v7a/libnative-filters.so (1)
+   android.googlesource.com                       2
+
+##### lib/armeabi-v7a/libnative-imagetranscoder.so (1)
+   android.googlesource.com                       2
+
+##### lib/armeabi-v7a/libpl_droidsonroids_gif.so (1)
+   android.googlesource.com                       2
+
+##### lib/armeabi-v7a/libso.so (1)
+   android.googlesource.com                       2
+
+##### lib/armeabi-v7a/libstatic-webp.so (1)
+   android.googlesource.com                       2
+
+##### lib/armeabi-v7a/libuts-runtime.so (1)
+   android.googlesource.com                       4
+
+##### lib/armeabi-v7a/libweexcore.so (2)
+   android.googlesource.com                       4
+   s.run                                          1
+
+##### lib/armeabi-v7a/libweexjsb.so (1)
+   android.googlesource.com                       2
+
+##### lib/armeabi-v7a/libweexjss.so (37)
+   wasm-compiler.cc                               9
+   graph-visualizer.cc                            5
+   android.googlesource.com                       4
+   serializer-for-background-compilation.cc       3
+   crbug.com                                      2
+   function-body-decoder.cc                       2
+   wasm-interpreter.cc                            2
+   wasm-js.cc                                     2
+   verifier.cc                                    2
+   regexp.cc                                      2
+   runtime-regexp.cc                              2
+   asm-js.cc                                      2
+   js-context-specialization.cc                   1
+   f64.store                                      1
+   handles.cc                                     1
+   interpreter.cc                                 1
+   module.cc                                      1
+   wasm-objects.cc                                1
+   parser.cc                                      1
+   js-native-context-specialization.cc            1
+   i64.store                                      1
+   node-properties.cc                             1
+   ast-value-factory.cc                           1
+   js-call-reducer.cc                             1
+   js-typed-lowering.cc                           1
+   typer.cc                                       1
+   map.cc                                         1
+   keys.cc                                        1
+   js-inlining-heuristic.cc                       1
+   i32.store                                      1
+   register-allocator-verifier.cc                 1
+   parse-info.cc                                  1
+   f32.store                                      1
+   js-heap-broker.cc                              1
+   graph-builder-interface.cc                     1
+   sh.fr                                          1
+   f.fr                                           1
+
+##### lib/armeabi-v7a/libweexjst.so (1)
+   android.googlesource.com                       2
+
+##### lib/x86/libbreakpad-core.so (1)
+   android.googlesource.com                       4
+
+##### lib/x86/libdcblur.so (1)
+   android.googlesource.com                       4
+
+##### lib/x86/libgifimage.so (1)
+   android.googlesource.com                       2
+
+##### lib/x86/libijkffmpeg.so (6)
+   android.googlesource.com                       4
+   www.openssl.org                                1
+   openssl.org                                    1
+   upload.ffmpeg.org                              1
+   ffmpeg.org                                     1
+   unix.group                                     1
+
+##### lib/x86/libijkplayer.so (3)
+   android.googlesource.com                       4
+   upload.ffmpeg.org                              1
+   ffmpeg.org                                     1
+
+##### lib/x86/libijksdl.so (3)
+   android.media                                  5
+   android.googlesource.com                       4
+   tv.danmaku.ijk.media                           3
+
+##### lib/x86/libimagepipeline.so (1)
+   android.googlesource.com                       2
+
+##### lib/x86/liblamemp3.so (2)
+   android.googlesource.com                       4
+   lame.sf.net                                    2
+
+##### lib/x86/libnative-filters.so (1)
+   android.googlesource.com                       2
+
+##### lib/x86/libnative-imagetranscoder.so (1)
+   android.googlesource.com                       2
+
+##### lib/x86/libpl_droidsonroids_gif.so (1)
+   android.googlesource.com                       2
+
+##### lib/x86/libso.so (1)
+   android.googlesource.com                       2
+
+##### lib/x86/libstatic-webp.so (1)
+   android.googlesource.com                       2
+
+##### lib/x86/libuts-runtime.so (1)
+   android.googlesource.com                       4
+
+##### lib/x86/libweexcore.so (2)
+   android.googlesource.com                       4
+   s.run                                          1
+
+##### lib/x86/libweexjsb.so (1)
+   android.googlesource.com                       2
+
+##### lib/x86/libweexjss.so (35)
+   wasm-compiler.cc                               9
+   graph-visualizer.cc                            5
+   android.googlesource.com                       4
+   serializer-for-background-compilation.cc       3
+   crbug.com                                      2
+   function-body-decoder.cc                       2
+   wasm-interpreter.cc                            2
+   wasm-js.cc                                     2
+   verifier.cc                                    2
+   regexp.cc                                      2
+   runtime-regexp.cc                              2
+   asm-js.cc                                      2
+   js-context-specialization.cc                   1
+   f64.store                                      1
+   handles.cc                                     1
+   interpreter.cc                                 1
+   module.cc                                      1
+   wasm-objects.cc                                1
+   parser.cc                                      1
+   js-native-context-specialization.cc            1
+   i64.store                                      1
+   node-properties.cc                             1
+   ast-value-factory.cc                           1
+   js-call-reducer.cc                             1
+   js-typed-lowering.cc                           1
+   typer.cc                                       1
+   map.cc                                         1
+   keys.cc                                        1
+   js-inlining-heuristic.cc                       1
+   i32.store                                      1
+   register-allocator-verifier.cc                 1
+   parse-info.cc                                  1
+   f32.store                                      1
+   js-heap-broker.cc                              1
+   graph-builder-interface.cc                     1
+
+##### lib/x86/libweexjst.so (1)
+   android.googlesource.com                       2
+
+##### io/dcloud/all.js (34)
+   window.plus                                    86
+   e.tools                                        81
+   e.name                                         18
+   this.name                                      8
+   i.video                                        7
+   window.plus.tools                              4
+   c.date                                         4
+   e.video                                        4
+   plus.tools                                     3
+   t.name                                         3
+   i.new                                          3
+   a.name                                         3
+   navigator.plus                                 2
+   e.io                                           2
+   t.top                                          2
+   i.date                                         2
+   window.webkit.messagehandlers.plus             1
+   this.plus                                      1
+   i.name                                         1
+   e.top                                          1
+   e.style                                        1
+   this.to                                        1
+   this.cc                                        1
+   r.download                                     1
+   e.net                                          1
+   io.dcloud.app                                  1
+   io.dcloud.common.app                           1
+   io.dcloud.net                                  1
+   io.dcloud.common.util.net                      1
+   c.styles.name                                  1
+   location.host                                  1
+   e.stream                                       1
+   o.name                                         1
+   l.top                                          1
+
+##### io/dcloud/uni-app-service.js (2)
+   t.data.to                                      1
+   t.prototype.in                                 1
+
+##### io/dcloud/weexUniJs.js (26)
+   t.tools                                        55
+   plus.tools                                     22
+   e.name                                         20
+   t.video                                        11
+   this.name                                      9
+   i.date                                         6
+   n.name                                         3
+   t.name                                         3
+   iostools.new                                   3
+   e.top                                          2
+   s.styles.name                                  1
+   location.host                                  1
+   t.top                                          1
+   t.style                                        1
+   this.to                                        1
+   this.cc                                        1
+   t.io                                           1
+   r.download                                     1
+   io.dcloud.app                                  1
+   io.dcloud.common.app                           1
+   io.dcloud.net                                  1
+   io.dcloud.common.util.net                      1
+   t.stream                                       1
+   i.name                                         1
+   o.name                                         1
+   l.top                                          1

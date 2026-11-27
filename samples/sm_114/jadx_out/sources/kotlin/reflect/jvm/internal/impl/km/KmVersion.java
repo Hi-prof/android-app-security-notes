@@ -1,0 +1,52 @@
+package kotlin.reflect.jvm.internal.impl.km;
+
+/* JADX INFO: compiled from: Nodes.kt */
+/* JADX INFO: loaded from: classes2.dex */
+public final class KmVersion {
+    private final int major;
+    private final int minor;
+    private final int patch;
+
+    public final int component1() {
+        return this.major;
+    }
+
+    public final int component2() {
+        return this.minor;
+    }
+
+    public final int component3() {
+        return this.patch;
+    }
+
+    public boolean equals(java.lang.Object obj) {
+        if (this == obj) {
+            return true;
+        }
+        if (!(obj instanceof kotlin.reflect.jvm.internal.impl.km.KmVersion)) {
+            return false;
+        }
+        kotlin.reflect.jvm.internal.impl.km.KmVersion kmVersion = (kotlin.reflect.jvm.internal.impl.km.KmVersion) obj;
+        return this.major == kmVersion.major && this.minor == kmVersion.minor && this.patch == kmVersion.patch;
+    }
+
+    public int hashCode() {
+        return (((this.major * 31) + this.minor) * 31) + this.patch;
+    }
+
+    public KmVersion(int i, int i2, int i3) {
+        this.major = i;
+        this.minor = i2;
+        this.patch = i3;
+    }
+
+    public java.lang.String toString() {
+        java.lang.StringBuilder sb = new java.lang.StringBuilder();
+        sb.append(this.major);
+        sb.append(com.taobao.weex.el.parse.Operators.DOT);
+        sb.append(this.minor);
+        sb.append(com.taobao.weex.el.parse.Operators.DOT);
+        sb.append(this.patch);
+        return sb.toString();
+    }
+}

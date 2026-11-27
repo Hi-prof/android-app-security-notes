@@ -1,0 +1,47 @@
+package kotlin.reflect.jvm.internal.impl.km.jvm;
+
+/* JADX INFO: compiled from: JvmMemberSignature.kt */
+/* JADX INFO: loaded from: classes2.dex */
+public final class JvmMethodSignature extends kotlin.reflect.jvm.internal.impl.km.jvm.JvmMemberSignature {
+    private final java.lang.String descriptor;
+    private final java.lang.String name;
+
+    public boolean equals(java.lang.Object obj) {
+        if (this == obj) {
+            return true;
+        }
+        if (!(obj instanceof kotlin.reflect.jvm.internal.impl.km.jvm.JvmMethodSignature)) {
+            return false;
+        }
+        kotlin.reflect.jvm.internal.impl.km.jvm.JvmMethodSignature jvmMethodSignature = (kotlin.reflect.jvm.internal.impl.km.jvm.JvmMethodSignature) obj;
+        return kotlin.jvm.internal.Intrinsics.areEqual(this.name, jvmMethodSignature.name) && kotlin.jvm.internal.Intrinsics.areEqual(this.descriptor, jvmMethodSignature.descriptor);
+    }
+
+    public int hashCode() {
+        return (this.name.hashCode() * 31) + this.descriptor.hashCode();
+    }
+
+    /* JADX WARN: 'super' call moved to the top of the method (can break code semantics) */
+    public JvmMethodSignature(java.lang.String name, java.lang.String descriptor) {
+        super(null);
+        kotlin.jvm.internal.Intrinsics.checkNotNullParameter(name, "name");
+        kotlin.jvm.internal.Intrinsics.checkNotNullParameter(descriptor, "descriptor");
+        this.name = name;
+        this.descriptor = descriptor;
+    }
+
+    @Override // kotlin.reflect.jvm.internal.impl.km.jvm.JvmMemberSignature
+    public java.lang.String getDescriptor() {
+        return this.descriptor;
+    }
+
+    @Override // kotlin.reflect.jvm.internal.impl.km.jvm.JvmMemberSignature
+    public java.lang.String getName() {
+        return this.name;
+    }
+
+    @Override // kotlin.reflect.jvm.internal.impl.km.jvm.JvmMemberSignature
+    public java.lang.String toString() {
+        return getName() + getDescriptor();
+    }
+}

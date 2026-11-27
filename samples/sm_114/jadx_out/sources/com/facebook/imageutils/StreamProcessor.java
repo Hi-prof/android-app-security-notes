@@ -1,0 +1,32 @@
+package com.facebook.imageutils;
+
+/* JADX INFO: compiled from: StreamProcessor.kt */
+/* JADX INFO: loaded from: classes.dex */
+@kotlin.Metadata(d1 = {"\u0000 \n\u0002\u0018\u0002\n\u0002\u0010\u0000\n\u0002\b\u0003\n\u0002\u0010\b\n\u0000\n\u0002\u0018\u0002\n\u0002\b\u0002\n\u0002\u0010\u000b\n\u0000\bÀ\u0002\u0018\u00002\u00020\u0001B\t\b\u0002¢\u0006\u0004\b\u0002\u0010\u0003J \u0010\u0004\u001a\u00020\u00052\u0006\u0010\u0006\u001a\u00020\u00072\u0006\u0010\b\u001a\u00020\u00052\u0006\u0010\t\u001a\u00020\nH\u0007¨\u0006\u000b"}, d2 = {"Lcom/facebook/imageutils/StreamProcessor;", "", "<init>", "()V", "readPackedInt", "", io.dcloud.common.DHInterface.IApp.ConfigProperty.CONFIG_STREAM, "Ljava/io/InputStream;", "numBytes", "isLittleEndian", "", "imagepipeline-base_release"}, k = 1, mv = {2, 0, 0}, xi = 48)
+public final class StreamProcessor {
+    public static final com.facebook.imageutils.StreamProcessor INSTANCE = new com.facebook.imageutils.StreamProcessor();
+
+    private StreamProcessor() {
+    }
+
+    @kotlin.jvm.JvmStatic
+    public static final int readPackedInt(java.io.InputStream stream, int numBytes, boolean isLittleEndian) throws java.io.IOException {
+        int i;
+        kotlin.jvm.internal.Intrinsics.checkNotNullParameter(stream, "stream");
+        int i2 = 0;
+        for (int i3 = 0; i3 < numBytes; i3++) {
+            int i4 = stream.read();
+            if (i4 == -1) {
+                throw new java.io.IOException("no more bytes");
+            }
+            if (isLittleEndian) {
+                i = (i4 & 255) << (i3 * 8);
+            } else {
+                i2 <<= 8;
+                i = i4 & 255;
+            }
+            i2 |= i;
+        }
+        return i2;
+    }
+}

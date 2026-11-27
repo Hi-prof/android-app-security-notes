@@ -1,0 +1,21 @@
+package com.facebook.imagepipeline.bitmaps;
+
+/* JADX INFO: compiled from: PlatformBitmapFactoryProvider.kt */
+/* JADX INFO: loaded from: classes.dex */
+@kotlin.Metadata(d1 = {"\u0000$\n\u0002\u0018\u0002\n\u0002\u0010\u0000\n\u0002\b\u0003\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0000\bÆ\u0002\u0018\u00002\u00020\u0001B\t\b\u0002¢\u0006\u0004\b\u0002\u0010\u0003J \u0010\u0004\u001a\u00020\u00052\u0006\u0010\u0006\u001a\u00020\u00072\u0006\u0010\b\u001a\u00020\t2\u0006\u0010\n\u001a\u00020\u000bH\u0007¨\u0006\f"}, d2 = {"Lcom/facebook/imagepipeline/bitmaps/PlatformBitmapFactoryProvider;", "", "<init>", "()V", "buildPlatformBitmapFactory", "Lcom/facebook/imagepipeline/bitmaps/PlatformBitmapFactory;", "poolFactory", "Lcom/facebook/imagepipeline/memory/PoolFactory;", "platformDecoder", "Lcom/facebook/imagepipeline/platform/PlatformDecoder;", "closeableReferenceFactory", "Lcom/facebook/imagepipeline/core/CloseableReferenceFactory;", "imagepipeline_release"}, k = 1, mv = {2, 0, 0}, xi = 48)
+public final class PlatformBitmapFactoryProvider {
+    public static final com.facebook.imagepipeline.bitmaps.PlatformBitmapFactoryProvider INSTANCE = new com.facebook.imagepipeline.bitmaps.PlatformBitmapFactoryProvider();
+
+    private PlatformBitmapFactoryProvider() {
+    }
+
+    @kotlin.jvm.JvmStatic
+    public static final com.facebook.imagepipeline.bitmaps.PlatformBitmapFactory buildPlatformBitmapFactory(com.facebook.imagepipeline.memory.PoolFactory poolFactory, com.facebook.imagepipeline.platform.PlatformDecoder platformDecoder, com.facebook.imagepipeline.core.CloseableReferenceFactory closeableReferenceFactory) {
+        kotlin.jvm.internal.Intrinsics.checkNotNullParameter(poolFactory, "poolFactory");
+        kotlin.jvm.internal.Intrinsics.checkNotNullParameter(platformDecoder, "platformDecoder");
+        kotlin.jvm.internal.Intrinsics.checkNotNullParameter(closeableReferenceFactory, "closeableReferenceFactory");
+        com.facebook.imagepipeline.memory.BitmapPool bitmapPool = poolFactory.getBitmapPool();
+        kotlin.jvm.internal.Intrinsics.checkNotNullExpressionValue(bitmapPool, "getBitmapPool(...)");
+        return new com.facebook.imagepipeline.bitmaps.ArtBitmapFactory(bitmapPool, closeableReferenceFactory);
+    }
+}

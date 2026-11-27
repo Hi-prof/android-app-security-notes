@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<title>在线客服</title>
+	<style>
+		/* 确保聊天窗口铺满整个 web-view */
+		body, html { 
+			margin: 0; 
+			padding: 0; 
+			height: 100%; 
+			overflow: hidden; 
+		}
+		
+		/* 加载提示样式 */
+		.loading {
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			height: 100vh;
+			font-family: Arial, sans-serif;
+			font-size: 16px;
+			color: #666;
+		}
+	</style>
+</head>
+<body>
+	<div class="loading" id="loadingTip">正在连接客服...</div>
+
+<script type="text/javascript">
+var Tawk_API = Tawk_API || {};
+
+// 兼容性URL参数解析函数
+function getUrlParams() {
+	const params = {};
+	const queryString = window.location.search.substring(1);
+	console.log('原始查询字符串:', queryString);
+	
+	const pairs = queryString.split('&');
+	console.log('分割后的参数对:', pairs);
+	
+	for (let pair of pairs) {
+		if (pair) {
+			const [key, value] = pair.split('=');
+			if (key) {
+				const decodedKey = decodeURIComponent(key);
+				const decodedValue = decodeURIComponent(value || '');
+				params[decodedKey] = decodedValue;
+				console.log(`参数解析: ${decodedKey} = ${decodedValue}`);
+			}
+		}
+	}
+	
+	return params;
+}
+
+// 获取URL参数 - 最简化版本，只处理用户名
+const urlParams = getUrlParams();
+console.log('完整解析的URL参数:', urlParams);
+
+// 最核心参数：只要用户名
+const visitorName = urlParams.name || 'APP用户';
+const tawkSrc = urlParams.tawkSrc; // Tawk embed链接
+
+// 输出关键信息用于调试
+console.log('=== 最简化参数检查 ===');
+console.log('访客姓名 (visitorName):', visitorName);
+console.log('Tawk链接 (tawkSrc):', tawkSrc);
+console.log('========================');
+
+// 设置访客信息 - 最简化版本，只设置用户名
+console.log('=== 设置访客信息（最简化版本）===');
+console.log('准备设置访客姓名:', visitorName);
+
+// 初始化 Tawk_API 对象
+var Tawk_API = Tawk_API || {};
+
+// 设置访客信息 - 只设置用户名，最稳定的方案
+Tawk_API.visitor = {
+	name: visitorName
+};
+
+console.log('已设置的访客信息:', Tawk_API.visitor);
+
+// 添加 onLoad 回调
+Tawk_API.onLoad = function(){
+	console.log('=== Tawk.to 加载完成 ===');
+	
+	// 验证访客信息是否正确设置
+	console.log('Tawk加载后的访客信息:', Tawk_API.visitor);
+	
+	// 隐藏加载提示
+	const loadingTip = document.getElementById('loadingTip');
+	if (loadingTip) {
+		loadingTip.style.display = 'none';
+	}
+	
+	// 再次确认设置访客信息（强制更新）
+	if (typeof Tawk_API.setVisitor === 'function') {
+		console.log('使用 setVisitor 方法重新设置访客姓名');
+		Tawk_API.setVisitor({
+			name: visitorName
+		});
+	}
+	
+	console.log('✅ 访客姓名设置完成，客服应该能看到:', visitorName);
+};
+
+// 动态加载tawk.to脚本 - 最简化版本
+console.log('=== 准备加载 Tawk.to 脚本（最简化版本）===');
+
+var Tawk_LoadStart = new Date();
+(function(){
+	var s1 = document.createElement("script");
+	var s0 = document.getElementsByTagName("script")[0];
+	s1.async = true;
+	
+	// 简化：优先使用传入的embed链接，否则使用默认
+	if (tawkSrc) {
+		s1.src = decodeURIComponent(tawkSrc);
+		console.log('使用传入的embed链接:', s1.src);
+	} else {
+		// 使用您的默认 Widget ID
+		s1.src = 'https://embed.tawk.to/6790f2c13a8427326072f9e0/1ii738hl4';
+		console.log('使用默认Widget链接:', s1.src);
+	}
+	
+	s1.charset = 'UTF-8';
+	s1.setAttribute('crossorigin','*');
+	
+	// 添加脚本加载事件监听
+	s1.onload = function() {
+		console.log('✅ Tawk.to 脚本加载完成');
+	};
+	
+	s1.onerror = function() {
+		console.error('❌ Tawk.to 脚本加载失败');
+		const loadingTip = document.getElementById('loadingTip');
+		if (loadingTip) {
+			loadingTip.innerHTML = 'Tawk.to 加载失败，请检查网络';
+			loadingTip.style.color = '#ff0000';
+		}
+	};
+	
+	s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+</body>
+</html>

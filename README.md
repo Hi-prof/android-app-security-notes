@@ -19,3 +19,18 @@
 受测 APK 的清单允许明文流量，目标 SDK 为 API 28。更新和业务请求应统一使用 HTTPS，并在应用配置中禁用明文流量。
 
 受测 APK 声明了 29 种不同的权限，其中安装请求权限重复声明。应按功能核对权限声明和实际调用，删除冗余声明及无业务依赖的权限。
+
+## 分析产出（samples/sm_114）
+
+| 路径 | 内容 |
+| --- | --- |
+| `samples/sm_114/REPORT.md` | 完整分析记录 |
+| `samples/sm_114/sm_114.original.apk` | 原始样本 |
+| `samples/sm_114/sm_114.patched.apk` | 本地校验补丁后的样本 |
+| `samples/sm_114/jadx_out/` | jadx 反编译产物（sources + resources） |
+| `samples/sm_114/unzip/` | APK 解包结果（Manifest、assets） |
+| `samples/sm_114/www_backup/` | 从 assets 中取出的前端页面与 `app-service.js` |
+| `samples/sm_114/sec/` | 清单树、权限、SO 与主机清单、SECURITY.md |
+| `samples/sm_114/*.py` | 探测与重打包脚本（probe\_\*、patch_vip\*、build_apk.py） |
+| `samples/sm_114/shot*.png` | 运行与验证截图 |
+| `samples/sm_114/*.m3u8`、`*.json` | 抓取到的播放列表与接口响应样本 |

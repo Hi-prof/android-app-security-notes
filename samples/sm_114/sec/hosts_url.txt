@@ -1,0 +1,1385 @@
+===== GLOBAL 259 =====
+android.googlesource.com                           81
+libc.so                                            53
+libm.so                                            44
+libdl.so                                           35
+liblog.so                                          28
+ff3zvkbv.842641.xyz                                16
+libweexjss.so                                      12
+libz.so                                            11
+ask.dcloud.net.cn                                  8
+www.w3.org                                         8
+libjnigraphics.so                                  8
+fastly.jsdelivr.net                                7
+gitlab.com                                         7
+bitbucket.org                                      7
+gitgud.io                                          7
+codeberg.org                                       7
+git.disroot.org                                    7
+gitea.com                                          7
+h9a228t.842610.xyz                                 7
+ro.arch                                            7
+ro.build.version.sdk                               6
+libandroid.so                                      6
+libglesv2.so                                       5
+localhost                                          4
+libijkffmpeg.so                                    4
+www.google.com                                     3
+github.com                                         3
+quilljs.com                                        3
+ll.dex                                             3
+libdvm.so                                          3
+libart.so                                          3
+libdcblur.so                                       3
+www.openssl.org                                    3
+value.single                                       3
+d.kari                                             3
+p.other                                            3
+value.other                                        3
+p.prime                                            3
+value.good                                         3
+d.pwri                                             3
+d.crl                                              3
+value.safes                                        3
+d.kekri                                            3
+d.other                                            3
+d.data                                             3
+d.ori                                              3
+unix.mode                                          3
+d.sign                                             3
+unix.uid                                           3
+value.bag                                          3
+unix.gid                                           3
+openssl.cnf                                        3
+d.ktri                                             3
+value.set                                          3
+d.cpsuri                                           3
+d.digest                                           3
+libijkplayer.so                                    3
+libijksdl.so                                       3
+libimagepipeline.so                                3
+lame.sf.net                                        3
+libnative-filters.so                               3
+libuts-runtime.so                                  3
+ro.product.model                                   3
+persist.sys.locale                                 3
+s.run                                              3
+libweexjsb.so                                      3
+crbug.com                                          3
+sharedarraybuffer.prototype.slice                  3
+new.target                                         3
+i32.ne                                             3
+f64.cos                                            3
+i8x16.splat                                        3
+f64x2.qfms                                         3
+v8.wasmcompilemodulemicroseconds.wasm              3
+f64.store                                          3
+memory.copy                                        3
+uni-jsframework.js                                 3
+f32.div                                            3
+i64x2.neg                                          3
+table.size                                         3
+i64.ctz                                            3
+f32x4.splat                                        3
+v8.log                                             3
+v8.wasmfunctionsizebytes.wasm                      3
+f32.sub                                            3
+f32.const                                          3
+i16x8.mul                                          3
+f64x2.qfma                                         3
+i64.eqz                                            3
+f64.trunc                                          3
+memory.grow                                        3
+f64x2.ne                                           3
+i32x4.ne                                           3
+s128.andnot                                        3
+insertion.second                                   3
+import.meta                                        3
+memory.size                                        3
+table.init                                         3
+i8x16.ne                                           3
+f64x2.div                                          3
+f64x2.min                                          3
+v8.wasmmodulesizebytes.asm                         3
+v8.wasmcompilemodulemicroseconds.asm               3
+f64.ge                                             3
+i32.xor                                            3
+i32.const                                          3
+i8x16.eq                                           3
+f32x4.sub                                          3
+v8.wasmfunctionspermodule.asm                      3
+result.second                                      3
+i64x2.eq                                           3
+v8.wasminstantiatemodulemicroseconds.wasm          3
+f64.lt                                             3
+f32.floor                                          3
+f64.asin                                           3
+f32x4.qfma                                         3
+i64.eq                                             3
+f64.max                                            3
+memory.fill                                        3
+i32.atomic.wait                                    3
+array.prototype.concat                             3
+weakref.prototype.deref                            3
+i32.add                                            3
+f32.max                                            3
+table.set                                          3
+f32x4.sqrt                                         3
+v8.wasmminmempagescount.wasm                       3
+f64.add                                            3
+f32.le                                             3
+f64x2.splat                                        3
+v8.wasmmodulesizebytes.wasm                        3
+webassembly.memory.buffer                          3
+f64.eq                                             3
+i64.or                                             3
+f64.acos                                           3
+i32x4.neg                                          3
+i64.ror                                            3
+memory.init                                        3
+v8.wasminstantiatemodulemicroseconds.asm           3
+i64.xor                                            3
+f64.abs                                            3
+i16x8.neg                                          3
+i32x4.abs                                          3
+f32.lt                                             3
+local.tee                                          3
+f64.const                                          3
+i64x2.add                                          3
+map.prototype.clear                                3
+regexp.prototype.exec                              3
+i16x8.eq                                           3
+i32.eqz                                            3
+f32.mul                                            3
+i64.shl                                            3
+f64.sin                                            3
+f64x2.max                                          3
+i64.atomic.wait                                    3
+disabled-by-default-v8.gc                          3
+i32.sub                                            3
+f64.min                                            3
+f64.load                                           3
+i64x2.splat                                        3
+f64x2.neg                                          3
+s128.or                                            3
+table.grow                                         3
+i64.and                                            3
+i32.store                                          3
+i64x2.mul                                          3
+i8x16.abs                                          3
+f32.eq                                             3
+i32.ctz                                            3
+global.get                                         3
+data.drop                                          3
+reflect.set                                        3
+i64.ne                                             3
+f32.load                                           3
+i32x4.add                                          3
+f64x2.le                                           3
+i16x8.shl                                          3
+arraybuffer.prototype.slice                        3
+set.prototype.clear                                3
+v8.wasmfunctionspermodule.wasm                     3
+i32.mul                                            3
+i32.rol                                            3
+ref.func                                           3
+i16x8.add                                          3
+i32x4.shl                                          3
+disabled-by-default-v8.wasm                        3
+i32x4.splat                                        3
+s128.not                                           3
+v8.wasmcompilefunctionmicroseconds.wasm            3
+table.fill                                         3
+i64.add                                            3
+i64.clz                                            3
+f64x2.lt                                           3
+s128.select                                        3
+atomic.notify                                      3
+v8.wasmminmempagescount.asm                        3
+local.get                                          3
+v8.wasmcompilefunctionmicroseconds.asm             3
+i32.eq                                             3
+f32.gt                                             3
+f32.ge                                             3
+i32.ror                                            3
+f32.sqrt                                           3
+f64.tan                                            3
+f64x2.sqrt                                         3
+f32x4.max                                          3
+i16x8.abs                                          3
+f32.store                                          3
+elem.drop                                          3
+f32x4.eq                                           3
+i32x4.sub                                          3
+f32x4.min                                          3
+i32.popcnt                                         3
+f32.ceil                                           3
+i32x4.eq                                           3
+f64x2.abs                                          3
+v8.wasmfunctionsizebytes.asm                       3
+f32x4.le                                           3
+i64x2.shl                                          3
+f64.ne                                             3
+f64.gt                                             3
+i32.or                                             3
+global.set                                         3
+i16x8.ne                                           3
+ns.adobe.com                                       2
+schemas.android.com                                2
+youtrack.jetbrains.com                             2
+er.dcloud.io                                       2
+er.dcloud.net.cn                                   2
+www.smapp.cc                                       2
+www.smshe.net                                      2
+verify.613804.xyz                                  2
+apis.map.qq.com                                    2
+libopensles.so                                     2
+www.android.com                                    1
+0animationbackenddelegatewithinactivitycheck.java  1
+0bytebufferbitmapimagedecoderresourcedecoder.java  1
+1inputstreambitmapimagedecoderresourcedecoder.java 1
+4instrumentedmemorycachebitmapmemorycachefactory.java 1
+3unusedapprestrictionsbackportserviceconnection.java 1
+2androidx.lifecycle.bundlablesavedstateregistry.key 1
+m3w.cn                                             1
+1abstractbinaryclassannotationandconstantloader.kt 1
+2javaincompatibilityrulesoverridabilitycondition.kt 1
+4kotlinx.coroutines.debug.enable.creation.stack.trace 1
+www.smshe.cc                                       1
+www.smshe.xyz                                      1
+tawk.to                                            1
+ms.cqpig.cn                                        1
+vip4.ddyunbo.com                                   1
+v3.cqpig.cn                                        1
+js.cdn.aliyun.dcloud.net.cn                        1
+aomedia.org                                        1
+service.dcloud.net.cn                              1
+libjdog.so                                         1
+linux-gate.so                                      1
+0123456789abcdeflinux-gate.so                      1
+libegl.so                                          1
+
+##### classes.dex (10)
+   ask.dcloud.net.cn                              2
+   ns.adobe.com                                   1
+   schemas.android.com                            1
+   www.android.com                                1
+   0animationbackenddelegatewithinactivitycheck.java 1
+   0bytebufferbitmapimagedecoderresourcedecoder.java 1
+   1inputstreambitmapimagedecoderresourcedecoder.java 1
+   4instrumentedmemorycachebitmapmemorycachefactory.java 1
+   3unusedapprestrictionsbackportserviceconnection.java 1
+   2androidx.lifecycle.bundlablesavedstateregistry.key 1
+
+##### classes2.dex (11)
+   ask.dcloud.net.cn                              6
+   youtrack.jetbrains.com                         2
+   localhost                                      2
+   er.dcloud.io                                   2
+   er.dcloud.net.cn                               2
+   ns.adobe.com                                   1
+   schemas.android.com                            1
+   m3w.cn                                         1
+   1abstractbinaryclassannotationandconstantloader.kt 1
+   2javaincompatibilityrulesoverridabilitycondition.kt 1
+   4kotlinx.coroutines.debug.enable.creation.stack.trace 1
+
+##### assets/apps/__UNI__GF0182AE/www/app-service.js (13)
+   www.smapp.cc                                   2
+   www.smshe.net                                  2
+   verify.613804.xyz                              2
+   ff3zvkbv.842641.xyz                            2
+   www.smshe.cc                                   1
+   www.smshe.xyz                                  1
+   tawk.to                                        1
+   ms.cqpig.cn                                    1
+   vip4.ddyunbo.com                               1
+   v3.cqpig.cn                                    1
+   www.google.com                                 1
+   github.com                                     1
+   www.w3.org                                     1
+
+##### assets/apps/__UNI__GF0182AE/www/pages/index/index.js (9)
+   ff3zvkbv.842641.xyz                            2
+   fastly.jsdelivr.net                            1
+   gitlab.com                                     1
+   bitbucket.org                                  1
+   gitgud.io                                      1
+   codeberg.org                                   1
+   git.disroot.org                                1
+   gitea.com                                      1
+   h9a228t.842610.xyz                             1
+
+##### assets/apps/__UNI__GF0182AE/www/pages/live/player.js (9)
+   ff3zvkbv.842641.xyz                            2
+   fastly.jsdelivr.net                            1
+   gitlab.com                                     1
+   bitbucket.org                                  1
+   gitgud.io                                      1
+   codeberg.org                                   1
+   git.disroot.org                                1
+   gitea.com                                      1
+   h9a228t.842610.xyz                             1
+
+##### assets/apps/__UNI__GF0182AE/www/pages/subnvue/live_chat_list.js (9)
+   ff3zvkbv.842641.xyz                            2
+   fastly.jsdelivr.net                            1
+   gitlab.com                                     1
+   bitbucket.org                                  1
+   gitgud.io                                      1
+   codeberg.org                                   1
+   git.disroot.org                                1
+   gitea.com                                      1
+   h9a228t.842610.xyz                             1
+
+##### assets/apps/__UNI__GF0182AE/www/pages/subnvue/live_setting.js (9)
+   ff3zvkbv.842641.xyz                            2
+   fastly.jsdelivr.net                            1
+   gitlab.com                                     1
+   bitbucket.org                                  1
+   gitgud.io                                      1
+   codeberg.org                                   1
+   git.disroot.org                                1
+   gitea.com                                      1
+   h9a228t.842610.xyz                             1
+
+##### assets/apps/__UNI__GF0182AE/www/pages/subnvue/live_top_head.js (9)
+   ff3zvkbv.842641.xyz                            2
+   fastly.jsdelivr.net                            1
+   gitlab.com                                     1
+   bitbucket.org                                  1
+   gitgud.io                                      1
+   codeberg.org                                   1
+   git.disroot.org                                1
+   gitea.com                                      1
+   h9a228t.842610.xyz                             1
+
+##### assets/apps/__UNI__GF0182AE/www/pages/svod/player.js (9)
+   ff3zvkbv.842641.xyz                            2
+   fastly.jsdelivr.net                            1
+   gitlab.com                                     1
+   bitbucket.org                                  1
+   gitgud.io                                      1
+   codeberg.org                                   1
+   git.disroot.org                                1
+   gitea.com                                      1
+   h9a228t.842610.xyz                             1
+
+##### assets/apps/__UNI__GF0182AE/www/pages/video/play.js (10)
+   ff3zvkbv.842641.xyz                            2
+   fastly.jsdelivr.net                            1
+   gitlab.com                                     1
+   bitbucket.org                                  1
+   gitgud.io                                      1
+   codeberg.org                                   1
+   git.disroot.org                                1
+   gitea.com                                      1
+   h9a228t.842610.xyz                             1
+   js.cdn.aliyun.dcloud.net.cn                    1
+
+##### assets/apps/__UNI__GF0182AE/www/static/js/hls.min.js (2)
+   aomedia.org                                    1
+   www.w3.org                                     1
+
+##### assets/apps/__UNI__GF0182AE/www/view.umd.min.js (2)
+   www.w3.org                                     3
+   service.dcloud.net.cn                          1
+
+##### assets/apps/__UNI__GF0182AE/www/__uniappchooselocation.js (1)
+   apis.map.qq.com                                1
+
+##### assets/apps/__UNI__GF0182AE/www/__uniappopenlocation.js (2)
+   www.google.com                                 2
+   apis.map.qq.com                                1
+
+##### assets/apps/__UNI__GF0182AE/www/__uniappquill.js (1)
+   quilljs.com                                    3
+
+##### assets/apps/__UNI__GF0182AE/www/__uniappquillhighlight.js (1)
+   github.com                                     2
+
+##### lib/arm64-v8a/lib39285EFA.so (8)
+   liblog.so                                      2
+   libm.so                                        1
+   libdl.so                                       1
+   libjdog.so                                     1
+   ll.dex                                         1
+   libdvm.so                                      1
+   libart.so                                      1
+   ro.build.version.sdk                           1
+
+##### lib/arm64-v8a/libbreakpad-core.so (6)
+   android.googlesource.com                       2
+   libdl.so                                       1
+   libc.so                                        1
+   libm.so                                        1
+   ro.arch                                        1
+   linux-gate.so                                  1
+
+##### lib/arm64-v8a/libdcblur.so (5)
+   android.googlesource.com                       2
+   libc.so                                        1
+   liblog.so                                      1
+   libm.so                                        1
+   libdcblur.so                                   1
+
+##### lib/arm64-v8a/libgifimage.so (6)
+   android.googlesource.com                       1
+   libdl.so                                       1
+   libc.so                                        1
+   liblog.so                                      1
+   libm.so                                        1
+   ro.arch                                        1
+
+##### lib/arm64-v8a/libijkffmpeg.so (29)
+   android.googlesource.com                       2
+   www.w3.org                                     1
+   www.openssl.org                                1
+   libm.so                                        1
+   libdl.so                                       1
+   libz.so                                        1
+   value.single                                   1
+   d.kari                                         1
+   p.other                                        1
+   value.other                                    1
+   p.prime                                        1
+   value.good                                     1
+   d.pwri                                         1
+   d.crl                                          1
+   value.safes                                    1
+   d.kekri                                        1
+   d.other                                        1
+   d.data                                         1
+   d.ori                                          1
+   unix.mode                                      1
+   d.sign                                         1
+   unix.uid                                       1
+   value.bag                                      1
+   unix.gid                                       1
+   openssl.cnf                                    1
+   d.ktri                                         1
+   value.set                                      1
+   d.cpsuri                                       1
+   d.digest                                       1
+
+##### lib/arm64-v8a/libijkplayer.so (6)
+   android.googlesource.com                       2
+   libdl.so                                       1
+   libc.so                                        1
+   libijkffmpeg.so                                1
+   liblog.so                                      1
+   libijkplayer.so                                1
+
+##### lib/arm64-v8a/libijksdl.so (7)
+   android.googlesource.com                       2
+   libc.so                                        1
+   libm.so                                        1
+   liblog.so                                      1
+   libopensles.so                                 1
+   libglesv2.so                                   1
+   libijksdl.so                                   1
+
+##### lib/arm64-v8a/libimagepipeline.so (5)
+   android.googlesource.com                       1
+   libc.so                                        1
+   liblog.so                                      1
+   libm.so                                        1
+   libimagepipeline.so                            1
+
+##### lib/arm64-v8a/liblamemp3.so (5)
+   android.googlesource.com                       2
+   lame.sf.net                                    1
+   libm.so                                        1
+   libc.so                                        1
+   libdl.so                                       1
+
+##### lib/arm64-v8a/libnative-filters.so (5)
+   android.googlesource.com                       1
+   libc.so                                        1
+   liblog.so                                      1
+   libm.so                                        1
+   libnative-filters.so                           1
+
+##### lib/arm64-v8a/libnative-imagetranscoder.so (5)
+   android.googlesource.com                       1
+   libc.so                                        1
+   libdl.so                                       1
+   libm.so                                        1
+   ro.arch                                        1
+
+##### lib/arm64-v8a/libpl_droidsonroids_gif.so (5)
+   android.googlesource.com                       1
+   libc.so                                        1
+   libjnigraphics.so                              1
+   libglesv2.so                                   1
+   libm.so                                        1
+
+##### lib/arm64-v8a/libso.so (4)
+   android.googlesource.com                       1
+   libc.so                                        1
+   liblog.so                                      1
+   libdl.so                                       1
+
+##### lib/arm64-v8a/libstatic-webp.so (6)
+   android.googlesource.com                       1
+   libdl.so                                       1
+   libc.so                                        1
+   libjnigraphics.so                              1
+   libm.so                                        1
+   ro.arch                                        1
+
+##### lib/arm64-v8a/libuts-runtime.so (5)
+   android.googlesource.com                       2
+   libdl.so                                       1
+   libc.so                                        1
+   libuts-runtime.so                              1
+   ro.arch                                        1
+
+##### lib/arm64-v8a/libweexcore.so (13)
+   android.googlesource.com                       2
+   libc.so                                        1
+   libdl.so                                       1
+   liblog.so                                      1
+   libm.so                                        1
+   ro.arch                                        1
+   ro.product.model                               1
+   persist.sys.locale                             1
+   s.run                                          1
+   ro.build.version.sdk                           1
+   libweexjss.so                                  1
+   libandroid.so                                  1
+   libweexjsb.so                                  1
+
+##### lib/arm64-v8a/libweexjsb.so (5)
+   android.googlesource.com                       1
+   libc.so                                        1
+   libweexjss.so                                  1
+   libz.so                                        1
+   libm.so                                        1
+
+##### lib/arm64-v8a/libweexjss.so (165)
+   android.googlesource.com                       2
+   libc.so                                        2
+   crbug.com                                      1
+   libdl.so                                       1
+   liblog.so                                      1
+   libweexjss.so                                  1
+   sharedarraybuffer.prototype.slice              1
+   new.target                                     1
+   i32.ne                                         1
+   f64.cos                                        1
+   i8x16.splat                                    1
+   f64x2.qfms                                     1
+   v8.wasmcompilemodulemicroseconds.wasm          1
+   f64.store                                      1
+   memory.copy                                    1
+   uni-jsframework.js                             1
+   f32.div                                        1
+   i64x2.neg                                      1
+   table.size                                     1
+   i64.ctz                                        1
+   f32x4.splat                                    1
+   v8.log                                         1
+   v8.wasmfunctionsizebytes.wasm                  1
+   f32.sub                                        1
+   f32.const                                      1
+   i16x8.mul                                      1
+   f64x2.qfma                                     1
+   i64.eqz                                        1
+   f64.trunc                                      1
+   memory.grow                                    1
+   f64x2.ne                                       1
+   i32x4.ne                                       1
+   s128.andnot                                    1
+   insertion.second                               1
+   import.meta                                    1
+   memory.size                                    1
+   table.init                                     1
+   i8x16.ne                                       1
+   f64x2.div                                      1
+   f64x2.min                                      1
+   ro.arch                                        1
+   v8.wasmmodulesizebytes.asm                     1
+   v8.wasmcompilemodulemicroseconds.asm           1
+   f64.ge                                         1
+   i32.xor                                        1
+   i32.const                                      1
+   i8x16.eq                                       1
+   f32x4.sub                                      1
+   v8.wasmfunctionspermodule.asm                  1
+   result.second                                  1
+   i64x2.eq                                       1
+   v8.wasminstantiatemodulemicroseconds.wasm      1
+   f64.lt                                         1
+   f32.floor                                      1
+   f64.asin                                       1
+   f32x4.qfma                                     1
+   i64.eq                                         1
+   f64.max                                        1
+   memory.fill                                    1
+   i32.atomic.wait                                1
+   array.prototype.concat                         1
+   weakref.prototype.deref                        1
+   i32.add                                        1
+   f32.max                                        1
+   table.set                                      1
+   f32x4.sqrt                                     1
+   v8.wasmminmempagescount.wasm                   1
+   f64.add                                        1
+   f32.le                                         1
+   f64x2.splat                                    1
+   v8.wasmmodulesizebytes.wasm                    1
+   webassembly.memory.buffer                      1
+   f64.eq                                         1
+   i64.or                                         1
+   f64.acos                                       1
+   i32x4.neg                                      1
+   i64.ror                                        1
+   memory.init                                    1
+   v8.wasminstantiatemodulemicroseconds.asm       1
+   i64.xor                                        1
+   f64.abs                                        1
+   i16x8.neg                                      1
+   i32x4.abs                                      1
+   f32.lt                                         1
+   local.tee                                      1
+   f64.const                                      1
+   i64x2.add                                      1
+   map.prototype.clear                            1
+   regexp.prototype.exec                          1
+   i16x8.eq                                       1
+   i32.eqz                                        1
+   f32.mul                                        1
+   i64.shl                                        1
+   f64.sin                                        1
+   f64x2.max                                      1
+   i64.atomic.wait                                1
+   disabled-by-default-v8.gc                      1
+   i32.sub                                        1
+   f64.min                                        1
+   f64.load                                       1
+   i64x2.splat                                    1
+   f64x2.neg                                      1
+   s128.or                                        1
+   table.grow                                     1
+   i64.and                                        1
+   i32.store                                      1
+   i64x2.mul                                      1
+   i8x16.abs                                      1
+   f32.eq                                         1
+   i32.ctz                                        1
+   global.get                                     1
+   data.drop                                      1
+   reflect.set                                    1
+   i64.ne                                         1
+   f32.load                                       1
+   i32x4.add                                      1
+   f64x2.le                                       1
+   i16x8.shl                                      1
+   arraybuffer.prototype.slice                    1
+   set.prototype.clear                            1
+   v8.wasmfunctionspermodule.wasm                 1
+   i32.mul                                        1
+   i32.rol                                        1
+   ref.func                                       1
+   i16x8.add                                      1
+   i32x4.shl                                      1
+   disabled-by-default-v8.wasm                    1
+   i32x4.splat                                    1
+   s128.not                                       1
+   v8.wasmcompilefunctionmicroseconds.wasm        1
+   table.fill                                     1
+   i64.add                                        1
+   i64.clz                                        1
+   f64x2.lt                                       1
+   s128.select                                    1
+   atomic.notify                                  1
+   v8.wasmminmempagescount.asm                    1
+   local.get                                      1
+   v8.wasmcompilefunctionmicroseconds.asm         1
+   i32.eq                                         1
+   f32.gt                                         1
+   f32.ge                                         1
+   i32.ror                                        1
+   f32.sqrt                                       1
+   f64.tan                                        1
+   f64x2.sqrt                                     1
+   f32x4.max                                      1
+   i16x8.abs                                      1
+   f32.store                                      1
+   elem.drop                                      1
+   f32x4.eq                                       1
+   i32x4.sub                                      1
+   f32x4.min                                      1
+   i32.popcnt                                     1
+   f32.ceil                                       1
+   i32x4.eq                                       1
+   f64x2.abs                                      1
+   v8.wasmfunctionsizebytes.asm                   1
+   f32x4.le                                       1
+   i64x2.shl                                      1
+   f64.ne                                         1
+   f64.gt                                         1
+   i32.or                                         1
+   global.set                                     1
+   i16x8.ne                                       1
+
+##### lib/arm64-v8a/libweexjst.so (5)
+   android.googlesource.com                       1
+   libc.so                                        1
+   libweexjss.so                                  1
+   libz.so                                        1
+   libm.so                                        1
+
+##### lib/armeabi-v7a/lib39285EFA.so (7)
+   liblog.so                                      2
+   libm.so                                        1
+   libdl.so                                       1
+   ll.dex                                         1
+   libdvm.so                                      1
+   libart.so                                      1
+   ro.build.version.sdk                           1
+
+##### lib/armeabi-v7a/libbreakpad-core.so (5)
+   android.googlesource.com                       2
+   libdl.so                                       1
+   libc.so                                        1
+   libm.so                                        1
+   0123456789abcdeflinux-gate.so                  1
+
+##### lib/armeabi-v7a/libdcblur.so (5)
+   android.googlesource.com                       2
+   libc.so                                        1
+   liblog.so                                      1
+   libm.so                                        1
+   libdcblur.so                                   1
+
+##### lib/armeabi-v7a/libgifimage.so (5)
+   android.googlesource.com                       1
+   libdl.so                                       1
+   libc.so                                        1
+   liblog.so                                      1
+   libm.so                                        1
+
+##### lib/armeabi-v7a/libijkffmpeg.so (29)
+   android.googlesource.com                       2
+   www.w3.org                                     1
+   www.openssl.org                                1
+   libm.so                                        1
+   libdl.so                                       1
+   libz.so                                        1
+   value.single                                   1
+   d.kari                                         1
+   p.other                                        1
+   value.other                                    1
+   p.prime                                        1
+   value.good                                     1
+   d.pwri                                         1
+   d.crl                                          1
+   value.safes                                    1
+   d.kekri                                        1
+   d.other                                        1
+   d.data                                         1
+   d.ori                                          1
+   unix.mode                                      1
+   d.sign                                         1
+   unix.uid                                       1
+   value.bag                                      1
+   unix.gid                                       1
+   openssl.cnf                                    1
+   d.ktri                                         1
+   value.set                                      1
+   d.cpsuri                                       1
+   d.digest                                       1
+
+##### lib/armeabi-v7a/libijkplayer.so (6)
+   android.googlesource.com                       2
+   libdl.so                                       1
+   libc.so                                        1
+   libijkffmpeg.so                                1
+   liblog.so                                      1
+   libijkplayer.so                                1
+
+##### lib/armeabi-v7a/libijksdl.so (7)
+   android.googlesource.com                       2
+   libdl.so                                       1
+   libc.so                                        1
+   libijkffmpeg.so                                1
+   libandroid.so                                  1
+   libegl.so                                      1
+   libijksdl.so                                   1
+
+##### lib/armeabi-v7a/libimagepipeline.so (5)
+   android.googlesource.com                       1
+   libc.so                                        1
+   liblog.so                                      1
+   libm.so                                        1
+   libimagepipeline.so                            1
+
+##### lib/armeabi-v7a/liblamemp3.so (5)
+   android.googlesource.com                       2
+   lame.sf.net                                    1
+   libm.so                                        1
+   libc.so                                        1
+   libdl.so                                       1
+
+##### lib/armeabi-v7a/libnative-filters.so (5)
+   android.googlesource.com                       1
+   libc.so                                        1
+   libm.so                                        1
+   libjnigraphics.so                              1
+   libnative-filters.so                           1
+
+##### lib/armeabi-v7a/libnative-imagetranscoder.so (4)
+   android.googlesource.com                       1
+   libc.so                                        1
+   libdl.so                                       1
+   libm.so                                        1
+
+##### lib/armeabi-v7a/libpl_droidsonroids_gif.so (5)
+   android.googlesource.com                       1
+   libc.so                                        1
+   libjnigraphics.so                              1
+   libglesv2.so                                   1
+   libm.so                                        1
+
+##### lib/armeabi-v7a/libso.so (4)
+   android.googlesource.com                       1
+   libc.so                                        1
+   liblog.so                                      1
+   libdl.so                                       1
+
+##### lib/armeabi-v7a/libstatic-webp.so (5)
+   android.googlesource.com                       1
+   libdl.so                                       1
+   libc.so                                        1
+   libjnigraphics.so                              1
+   libm.so                                        1
+
+##### lib/armeabi-v7a/libuts-runtime.so (4)
+   android.googlesource.com                       2
+   libdl.so                                       1
+   libc.so                                        1
+   libuts-runtime.so                              1
+
+##### lib/armeabi-v7a/libweexcore.so (11)
+   android.googlesource.com                       2
+   libandroid.so                                  2
+   libc.so                                        1
+   libm.so                                        1
+   libz.so                                        1
+   ro.product.model                               1
+   persist.sys.locale                             1
+   s.run                                          1
+   ro.build.version.sdk                           1
+   libweexjss.so                                  1
+   libweexjsb.so                                  1
+
+##### lib/armeabi-v7a/libweexjsb.so (5)
+   android.googlesource.com                       1
+   libc.so                                        1
+   libweexjss.so                                  1
+   libz.so                                        1
+   libm.so                                        1
+
+##### lib/armeabi-v7a/libweexjss.so (164)
+   android.googlesource.com                       2
+   libc.so                                        2
+   crbug.com                                      1
+   libdl.so                                       1
+   liblog.so                                      1
+   libweexjss.so                                  1
+   sharedarraybuffer.prototype.slice              1
+   new.target                                     1
+   i32.ne                                         1
+   f64.cos                                        1
+   i8x16.splat                                    1
+   f64x2.qfms                                     1
+   v8.wasmcompilemodulemicroseconds.wasm          1
+   f64.store                                      1
+   memory.copy                                    1
+   f32.div                                        1
+   i64x2.neg                                      1
+   table.size                                     1
+   i64.ctz                                        1
+   f32x4.splat                                    1
+   v8.log                                         1
+   v8.wasmfunctionsizebytes.wasm                  1
+   f32.sub                                        1
+   f32.const                                      1
+   i16x8.mul                                      1
+   f64x2.qfma                                     1
+   i64.eqz                                        1
+   f64.trunc                                      1
+   memory.grow                                    1
+   f64x2.ne                                       1
+   i32x4.ne                                       1
+   s128.andnot                                    1
+   insertion.second                               1
+   import.meta                                    1
+   memory.size                                    1
+   table.init                                     1
+   i8x16.ne                                       1
+   f64x2.div                                      1
+   f64x2.min                                      1
+   v8.wasmmodulesizebytes.asm                     1
+   v8.wasmcompilemodulemicroseconds.asm           1
+   f64.ge                                         1
+   i32.xor                                        1
+   i32.const                                      1
+   i8x16.eq                                       1
+   f32x4.sub                                      1
+   v8.wasmfunctionspermodule.asm                  1
+   result.second                                  1
+   i64x2.eq                                       1
+   v8.wasminstantiatemodulemicroseconds.wasm      1
+   f64.lt                                         1
+   f32.floor                                      1
+   f64.asin                                       1
+   f32x4.qfma                                     1
+   i64.eq                                         1
+   f64.max                                        1
+   memory.fill                                    1
+   i32.atomic.wait                                1
+   array.prototype.concat                         1
+   weakref.prototype.deref                        1
+   i32.add                                        1
+   f32.max                                        1
+   table.set                                      1
+   f32x4.sqrt                                     1
+   v8.wasmminmempagescount.wasm                   1
+   f64.add                                        1
+   f32.le                                         1
+   f64x2.splat                                    1
+   v8.wasmmodulesizebytes.wasm                    1
+   webassembly.memory.buffer                      1
+   f64.eq                                         1
+   i64.or                                         1
+   f64.acos                                       1
+   i32x4.neg                                      1
+   i64.ror                                        1
+   memory.init                                    1
+   v8.wasminstantiatemodulemicroseconds.asm       1
+   i64.xor                                        1
+   f64.abs                                        1
+   i16x8.neg                                      1
+   i32x4.abs                                      1
+   f32.lt                                         1
+   local.tee                                      1
+   f64.const                                      1
+   i64x2.add                                      1
+   map.prototype.clear                            1
+   regexp.prototype.exec                          1
+   i16x8.eq                                       1
+   i32.eqz                                        1
+   f32.mul                                        1
+   i64.shl                                        1
+   f64.sin                                        1
+   f64x2.max                                      1
+   i64.atomic.wait                                1
+   disabled-by-default-v8.gc                      1
+   i32.sub                                        1
+   f64.min                                        1
+   f64.load                                       1
+   i64x2.splat                                    1
+   f64x2.neg                                      1
+   s128.or                                        1
+   table.grow                                     1
+   i64.and                                        1
+   i32.store                                      1
+   i64x2.mul                                      1
+   i8x16.abs                                      1
+   f32.eq                                         1
+   i32.ctz                                        1
+   global.get                                     1
+   data.drop                                      1
+   reflect.set                                    1
+   i64.ne                                         1
+   f32.load                                       1
+   i32x4.add                                      1
+   f64x2.le                                       1
+   i16x8.shl                                      1
+   arraybuffer.prototype.slice                    1
+   set.prototype.clear                            1
+   v8.wasmfunctionspermodule.wasm                 1
+   i32.mul                                        1
+   i32.rol                                        1
+   ref.func                                       1
+   i16x8.add                                      1
+   i32x4.shl                                      1
+   disabled-by-default-v8.wasm                    1
+   i32x4.splat                                    1
+   s128.not                                       1
+   v8.wasmcompilefunctionmicroseconds.wasm        1
+   table.fill                                     1
+   i64.add                                        1
+   i64.clz                                        1
+   f64x2.lt                                       1
+   s128.select                                    1
+   atomic.notify                                  1
+   v8.wasmminmempagescount.asm                    1
+   local.get                                      1
+   v8.wasmcompilefunctionmicroseconds.asm         1
+   i32.eq                                         1
+   f32.gt                                         1
+   f32.ge                                         1
+   i32.ror                                        1
+   f32.sqrt                                       1
+   f64.tan                                        1
+   f64x2.sqrt                                     1
+   f32x4.max                                      1
+   i16x8.abs                                      1
+   f32.store                                      1
+   elem.drop                                      1
+   f32x4.eq                                       1
+   i32x4.sub                                      1
+   f32x4.min                                      1
+   i32.popcnt                                     1
+   f32.ceil                                       1
+   i32x4.eq                                       1
+   f64x2.abs                                      1
+   v8.wasmfunctionsizebytes.asm                   1
+   f32x4.le                                       1
+   i64x2.shl                                      1
+   f64.ne                                         1
+   f64.gt                                         1
+   i32.or                                         1
+   global.set                                     1
+   i16x8.ne                                       1
+   uni-jsframework.js                             1
+
+##### lib/armeabi-v7a/libweexjst.so (5)
+   android.googlesource.com                       1
+   libc.so                                        1
+   libweexjss.so                                  1
+   libz.so                                        1
+   libm.so                                        1
+
+##### lib/x86/lib39285EFA.so (7)
+   liblog.so                                      2
+   libm.so                                        1
+   libdl.so                                       1
+   ll.dex                                         1
+   libdvm.so                                      1
+   libart.so                                      1
+   ro.build.version.sdk                           1
+
+##### lib/x86/libbreakpad-core.so (4)
+   android.googlesource.com                       2
+   libdl.so                                       1
+   libc.so                                        1
+   libm.so                                        1
+
+##### lib/x86/libdcblur.so (5)
+   android.googlesource.com                       2
+   libc.so                                        1
+   liblog.so                                      1
+   libm.so                                        1
+   libdcblur.so                                   1
+
+##### lib/x86/libgifimage.so (5)
+   android.googlesource.com                       1
+   libdl.so                                       1
+   libc.so                                        1
+   liblog.so                                      1
+   libm.so                                        1
+
+##### lib/x86/libijkffmpeg.so (29)
+   android.googlesource.com                       2
+   www.w3.org                                     1
+   www.openssl.org                                1
+   libm.so                                        1
+   libdl.so                                       1
+   libz.so                                        1
+   value.single                                   1
+   d.kari                                         1
+   p.other                                        1
+   value.other                                    1
+   p.prime                                        1
+   value.good                                     1
+   d.pwri                                         1
+   d.crl                                          1
+   value.safes                                    1
+   d.kekri                                        1
+   d.other                                        1
+   d.data                                         1
+   d.ori                                          1
+   unix.mode                                      1
+   d.sign                                         1
+   unix.uid                                       1
+   value.bag                                      1
+   unix.gid                                       1
+   openssl.cnf                                    1
+   d.ktri                                         1
+   value.set                                      1
+   d.cpsuri                                       1
+   d.digest                                       1
+
+##### lib/x86/libijkplayer.so (6)
+   android.googlesource.com                       2
+   libdl.so                                       1
+   libc.so                                        1
+   libijkffmpeg.so                                1
+   liblog.so                                      1
+   libijkplayer.so                                1
+
+##### lib/x86/libijksdl.so (7)
+   android.googlesource.com                       2
+   libc.so                                        1
+   libm.so                                        1
+   liblog.so                                      1
+   libopensles.so                                 1
+   libglesv2.so                                   1
+   libijksdl.so                                   1
+
+##### lib/x86/libimagepipeline.so (5)
+   android.googlesource.com                       1
+   libc.so                                        1
+   liblog.so                                      1
+   libm.so                                        1
+   libimagepipeline.so                            1
+
+##### lib/x86/liblamemp3.so (5)
+   android.googlesource.com                       2
+   lame.sf.net                                    1
+   libm.so                                        1
+   libc.so                                        1
+   libdl.so                                       1
+
+##### lib/x86/libnative-filters.so (5)
+   android.googlesource.com                       1
+   libc.so                                        1
+   libm.so                                        1
+   libjnigraphics.so                              1
+   libnative-filters.so                           1
+
+##### lib/x86/libnative-imagetranscoder.so (4)
+   android.googlesource.com                       1
+   libc.so                                        1
+   libdl.so                                       1
+   libm.so                                        1
+
+##### lib/x86/libpl_droidsonroids_gif.so (5)
+   android.googlesource.com                       1
+   libc.so                                        1
+   libjnigraphics.so                              1
+   libglesv2.so                                   1
+   libm.so                                        1
+
+##### lib/x86/libso.so (4)
+   android.googlesource.com                       1
+   libc.so                                        1
+   liblog.so                                      1
+   libdl.so                                       1
+
+##### lib/x86/libstatic-webp.so (5)
+   android.googlesource.com                       1
+   libdl.so                                       1
+   libc.so                                        1
+   libjnigraphics.so                              1
+   libm.so                                        1
+
+##### lib/x86/libuts-runtime.so (4)
+   android.googlesource.com                       2
+   libdl.so                                       1
+   libc.so                                        1
+   libuts-runtime.so                              1
+
+##### lib/x86/libweexcore.so (11)
+   android.googlesource.com                       2
+   libandroid.so                                  2
+   libc.so                                        1
+   libm.so                                        1
+   libz.so                                        1
+   ro.product.model                               1
+   persist.sys.locale                             1
+   s.run                                          1
+   ro.build.version.sdk                           1
+   libweexjss.so                                  1
+   libweexjsb.so                                  1
+
+##### lib/x86/libweexjsb.so (5)
+   android.googlesource.com                       1
+   libc.so                                        1
+   libweexjss.so                                  1
+   libz.so                                        1
+   libm.so                                        1
+
+##### lib/x86/libweexjss.so (164)
+   android.googlesource.com                       2
+   crbug.com                                      1
+   libc.so                                        1
+   libdl.so                                       1
+   liblog.so                                      1
+   libweexjss.so                                  1
+   sharedarraybuffer.prototype.slice              1
+   new.target                                     1
+   i32.ne                                         1
+   f64.cos                                        1
+   i8x16.splat                                    1
+   f64x2.qfms                                     1
+   v8.wasmcompilemodulemicroseconds.wasm          1
+   f64.store                                      1
+   memory.copy                                    1
+   uni-jsframework.js                             1
+   f32.div                                        1
+   i64x2.neg                                      1
+   table.size                                     1
+   i64.ctz                                        1
+   f32x4.splat                                    1
+   v8.log                                         1
+   v8.wasmfunctionsizebytes.wasm                  1
+   f32.sub                                        1
+   f32.const                                      1
+   i16x8.mul                                      1
+   f64x2.qfma                                     1
+   i64.eqz                                        1
+   f64.trunc                                      1
+   memory.grow                                    1
+   f64x2.ne                                       1
+   i32x4.ne                                       1
+   s128.andnot                                    1
+   insertion.second                               1
+   import.meta                                    1
+   memory.size                                    1
+   table.init                                     1
+   i8x16.ne                                       1
+   f64x2.div                                      1
+   f64x2.min                                      1
+   v8.wasmmodulesizebytes.asm                     1
+   v8.wasmcompilemodulemicroseconds.asm           1
+   f64.ge                                         1
+   i32.xor                                        1
+   i32.const                                      1
+   i8x16.eq                                       1
+   f32x4.sub                                      1
+   v8.wasmfunctionspermodule.asm                  1
+   result.second                                  1
+   i64x2.eq                                       1
+   v8.wasminstantiatemodulemicroseconds.wasm      1
+   f64.lt                                         1
+   f32.floor                                      1
+   f64.asin                                       1
+   f32x4.qfma                                     1
+   i64.eq                                         1
+   f64.max                                        1
+   memory.fill                                    1
+   i32.atomic.wait                                1
+   array.prototype.concat                         1
+   weakref.prototype.deref                        1
+   i32.add                                        1
+   f32.max                                        1
+   table.set                                      1
+   f32x4.sqrt                                     1
+   v8.wasmminmempagescount.wasm                   1
+   f64.add                                        1
+   f32.le                                         1
+   f64x2.splat                                    1
+   v8.wasmmodulesizebytes.wasm                    1
+   webassembly.memory.buffer                      1
+   f64.eq                                         1
+   i64.or                                         1
+   f64.acos                                       1
+   i32x4.neg                                      1
+   i64.ror                                        1
+   memory.init                                    1
+   v8.wasminstantiatemodulemicroseconds.asm       1
+   i64.xor                                        1
+   f64.abs                                        1
+   i16x8.neg                                      1
+   i32x4.abs                                      1
+   f32.lt                                         1
+   local.tee                                      1
+   f64.const                                      1
+   i64x2.add                                      1
+   map.prototype.clear                            1
+   regexp.prototype.exec                          1
+   i16x8.eq                                       1
+   i32.eqz                                        1
+   f32.mul                                        1
+   i64.shl                                        1
+   f64.sin                                        1
+   f64x2.max                                      1
+   i64.atomic.wait                                1
+   disabled-by-default-v8.gc                      1
+   i32.sub                                        1
+   f64.min                                        1
+   f64.load                                       1
+   i64x2.splat                                    1
+   f64x2.neg                                      1
+   s128.or                                        1
+   table.grow                                     1
+   i64.and                                        1
+   i32.store                                      1
+   i64x2.mul                                      1
+   i8x16.abs                                      1
+   f32.eq                                         1
+   i32.ctz                                        1
+   global.get                                     1
+   data.drop                                      1
+   reflect.set                                    1
+   i64.ne                                         1
+   f32.load                                       1
+   i32x4.add                                      1
+   f64x2.le                                       1
+   i16x8.shl                                      1
+   arraybuffer.prototype.slice                    1
+   set.prototype.clear                            1
+   v8.wasmfunctionspermodule.wasm                 1
+   i32.mul                                        1
+   i32.rol                                        1
+   ref.func                                       1
+   i16x8.add                                      1
+   i32x4.shl                                      1
+   disabled-by-default-v8.wasm                    1
+   i32x4.splat                                    1
+   s128.not                                       1
+   v8.wasmcompilefunctionmicroseconds.wasm        1
+   table.fill                                     1
+   i64.add                                        1
+   i64.clz                                        1
+   f64x2.lt                                       1
+   s128.select                                    1
+   atomic.notify                                  1
+   v8.wasmminmempagescount.asm                    1
+   local.get                                      1
+   v8.wasmcompilefunctionmicroseconds.asm         1
+   i32.eq                                         1
+   f32.gt                                         1
+   f32.ge                                         1
+   i32.ror                                        1
+   f32.sqrt                                       1
+   f64.tan                                        1
+   f64x2.sqrt                                     1
+   f32x4.max                                      1
+   i16x8.abs                                      1
+   f32.store                                      1
+   elem.drop                                      1
+   f32x4.eq                                       1
+   i32x4.sub                                      1
+   f32x4.min                                      1
+   i32.popcnt                                     1
+   f32.ceil                                       1
+   i32x4.eq                                       1
+   f64x2.abs                                      1
+   v8.wasmfunctionsizebytes.asm                   1
+   f32x4.le                                       1
+   i64x2.shl                                      1
+   f64.ne                                         1
+   f64.gt                                         1
+   i32.or                                         1
+   global.set                                     1
+   i16x8.ne                                       1
+
+##### lib/x86/libweexjst.so (5)
+   android.googlesource.com                       1
+   libc.so                                        1
+   libweexjss.so                                  1
+   libz.so                                        1
+   libm.so                                        1
+
+##### io/dcloud/all.js (1)
+   localhost                                      1
+
+##### io/dcloud/weexUniJs.js (1)
+   localhost                                      1

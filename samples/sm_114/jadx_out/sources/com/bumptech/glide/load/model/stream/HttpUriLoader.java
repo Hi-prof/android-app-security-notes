@@ -1,0 +1,14 @@
+package com.bumptech.glide.load.model.stream;
+
+/* JADX INFO: loaded from: classes.dex */
+@java.lang.Deprecated
+public class HttpUriLoader extends com.bumptech.glide.load.model.UrlUriLoader<java.io.InputStream> {
+
+    @java.lang.Deprecated
+    public static class Factory extends com.bumptech.glide.load.model.UrlUriLoader.StreamFactory {
+    }
+
+    public HttpUriLoader(com.bumptech.glide.load.model.ModelLoader<com.bumptech.glide.load.model.GlideUrl, java.io.InputStream> modelLoader) {
+        super(modelLoader);
+    }
+}

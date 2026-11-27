@@ -1,0 +1,11 @@
+package com.facebook.infer.annotation;
+
+/* JADX INFO: loaded from: classes.dex */
+@java.lang.annotation.Target({java.lang.annotation.ElementType.TYPE, java.lang.annotation.ElementType.FIELD, java.lang.annotation.ElementType.METHOD})
+@java.lang.annotation.Retention(java.lang.annotation.RetentionPolicy.CLASS)
+public @interface ThreadConfined {
+    public static final java.lang.String ANY = "ANY";
+    public static final java.lang.String UI = "UI";
+
+    java.lang.String value();
+}
